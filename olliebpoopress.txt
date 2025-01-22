@@ -1,0 +1,322 @@
+#MAIN EXE
+import mysql.connector
+from mysql.connector import errorcode
+
+
+import pygame
+import tkinter as tk
+from tkinter import *
+#import Player
+#import DBAccess
+#import CROP
+
+#Class definition, constructor, insert and close functions copyright of Stuart Frost 2024
+
+#  "10.105.12.18" SCHOOL DATABASE IP - CHANGE IF U R THERE U SPANNER
+class DBAccess:
+    
+    __username = "oliver"
+    __password = "boardman"
+    __host = "192.168.0.21"
+    __database = "oliver"
+    connection = ""
+    DBcursor = ""
+    
+    def __init__(self):
+        try:
+            self.connection = mysql.connector.connect(user=self.__username,password=self.__password,
+            host=self.__host,
+            database=self.__database)
+            self.DBcursor = self.connection.cursor(prepared=True)                     
+            
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Something is wrong with your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+        #else:
+        #    connection.close()
+                
+    def insert(self, sqlStatement, valuesList):
+        self.DBcursor.execute(sqlStatement, valuesList) # sending a prepared statement with a list of values in order
+        self.connection.commit() # confirm it is the correct operation
+        
+    def close(self):
+        self.connection.close()
+
+#######WINDOW############
+class Window:
+    height = 0
+    width = 0
+    screenName = ""
+    RValue = 0
+    GValue = 0
+    BValue = 0
+    
+    
+    def __init__(self, eHeight, eWidth, eScreenName, eRValue, eGValue, eBValue):
+        self.height = eHeight
+        self.width = eWidth
+        self.screenName = eScreenName
+        self.RValue = eRValue
+        self.GValue = eGValue
+        self.BValue = eBValue
+        self.window = pygame.display.set_mode((self.width, self.height))
+        pygame.display.set_caption(self.screenName)
+        #self.window.fill(self.RValue, self.GValue, BValue)
+'''        
+    def createWindow(self):
+        self.window = pygame.display.set_mode((self.width, self.height))
+        pygame.display.set_caption(self.screenName)
+'''
+
+########BUTTON#############################################################
+class Button:
+    
+    
+    def __init__(self, xPos, yPos, eImage, eSurface):
+        self.surface = eSurface
+        self.image = eImage
+        self.rect = self.image.get_rect()
+        self.rect.topleft =(xPos, yPos)
+        self.width = self.image.get_width()
+        self.height = self.image.get_height()
+        self.clicked = False
+        
+    def draw(self, surface):
+        action = False
+        mousePos = pygame.mouse.get_pos()
+        #print(mousePos)
+        if self.rect.collidepoint(mousePos) and pygame.mouse.get_pressed()[0] and self.clicked == False:
+            self.clicked = True
+            action = True
+            
+        if pygame.mouse.get_pressed()[0] == 0:
+            self.clicked = False
+        
+        self.surface.window.blit(self.image, (self.rect.x, self.rect.y))
+        
+        return action
+        
+    
+        
+#######start screen############
+     
+class createHomepage:
+    
+    def __init__(self):
+        self.homepageWindow = tk.Tk()
+        self.canvas = tk.Canvas(self.homepageWindow, width= 360, height = 640)
+        self.canvas.grid(columnspan=20, rowspan=20)
+        self.instructions = tk.Button(self.homepageWindow, text= "load save" , command= lambda: print("sigma")  )
+        self.instructions.grid(column = 10, row = 4)
+        self.instructions = tk.Button(self.homepageWindow, text= "poo" , command= lambda: print("sigma")  )
+        self.instructions.grid(column = 10, row = 6)
+        self.homepageWindow.mainloop()
+        
+#######PLAYER############
+class Player:
+    health = 0
+    energy = 0
+    inventory = []
+    inventorySize = 0
+    position = (0,0)
+    image = ""
+    
+    
+    def __init__(self, eName):
+        #,eInventory,eInventorySize
+        #self.health = 100
+        #self.energy = 100
+        #self.inventory = eInventory
+        #self.inventorysize = eInventorySize
+        self.name = eName
+        self.x = 250
+        self.y = 250
+        self.speed = 0
+        self.image = pygame.image.load("playerImage.png")
+        
+#######~MOVEMENT~########################        
+    def playerMoveUp(self):
+        if self.y >= 10:
+            self.y = self.y - 10
+        #else:
+            #print("sigma")
+        
+    def playerMoveDown(self, maxY):
+        if self.y <= maxY - 10:
+            self.y = self.y + 10
+        #else:
+            #print("sigma")
+        
+    def playerMoveRight(self, maxX):
+        if self.x <= maxX - 10:
+            self.x = self.x + 10
+        #else:
+            #print("sigma")
+        
+    def playerMoveLeft(self):
+        if self.x >= 10:
+            self.x = self.x - 10
+        #else:
+            #print("sigma")
+            
+######~DISPLAY~######################################################
+    def draw(self, surface):
+        vector = [self.x, self.y]
+        surface.blit(self.image, vector)
+                       
+##############################
+        
+     
+        
+pygame.init()
+
+#screenWidth = 800
+#screenHeight = 600
+
+#screen = pygame.display.set_mode((screenWidth, screenHeight))
+#pygame.display.set_caption("sigma game sigma")
+
+#createHomepage()
+#create tkinter pop up(prob not needed but hey ho)
+
+
+
+
+clock = pygame.time.Clock()
+x = 0
+gameScreen = Window(720,1280,"game screen", 255, 255, 255)
+#startScreen = Window(500,300, "beep bop boop bop starting", 255, 255, 255)
+
+
+gameLogoimg = pygame.image.load("gameLogo2.png").convert_alpha()
+loadSaveimg = pygame.image.load("loadSave3.png").convert_alpha()
+newSaveimg = pygame.image.load("newSave2.png").convert_alpha()
+settingsimg = pygame.image.load("settings.png").convert_alpha()
+exitimg = pygame.image.load("exit.png").convert_alpha()
+saveimg = pygame.image.load("save.png").convert_alpha()
+
+
+
+gameLogoButton = Button(100,0, gameLogoimg, gameScreen)
+loadSaveButton = Button(100,320, loadSaveimg, gameScreen)
+newSaveButton = Button(100,440, newSaveimg, gameScreen)
+print(str(newSaveButton.width) + str(newSaveButton.height))
+settingsButton = Button(100,500, settingsimg, gameScreen)
+exitButton = Button(100,600, exitimg, gameScreen)
+
+
+baseFont = pygame.font.Font(None, 32)
+userText = ""
+
+database = DBAccess()
+
+
+#gameScreen.createWindow()
+
+run = True
+play = False
+
+while run == True and play == False:
+    
+    pygame.display.update()
+    gameScreen.window.fill((gameScreen.RValue, gameScreen.GValue, gameScreen.BValue))
+    #startScreen.window.fill((255, 255, 255))
+    
+    gameLogoButton.draw(gameScreen.window)
+    
+    if loadSaveButton.draw(gameScreen.window):
+        print("awesome")
+        play = True
+        player = Player("sigma")
+        
+    elif newSaveButton.draw(gameScreen.window):
+        name = "oliver hallidrizzle"
+        
+        #print("nah not yet")
+        
+        textBox = baseFont.render(userText,True,(255,255,255))
+        gameScreen.window.blit(textBox, (0,0))
+        
+        database.insert("INSERT INTO upgrades (placeholder,) VALUES (%s,)",(10))
+        database.insert("INSERT INTO inventories (inventoryMaxSize,) VALUES (%s,)",(10))
+        database.insert("INSERT INTO players (inventoryID, playerName) VALUES (%s,%s)",(1,name))
+        database.insert("INSERT INTO environments (soilQual,waterPollution,soilDegredationRate) VALUES (%s,%s)",(1,name))
+        
+        database.insert("INSERT INTO players (inventoryID, playerName) VALUES (%s,%s)",(1,name))
+        database.insert("INSERT INTO saveFiles(")
+        
+        player = Player(name)
+        
+        
+        
+    elif settingsButton.draw(gameScreen.window):
+        print("nah not yet")
+        
+    elif exitButton.draw(gameScreen.window):
+        run = False
+    
+    for event in pygame.event.get():
+        
+        if event.type == pygame.QUIT:
+            run = False
+            
+        if event.type == pygame.KEYDOWN:
+            userText += event.unicode
+            
+    
+
+
+while run == True:
+    
+    gameScreen.window.fill((gameScreen.RValue, gameScreen.GValue, gameScreen.BValue))
+    player.draw(gameScreen.window)
+    #numbers are RGB values
+    keyPress = pygame.key.get_pressed()
+    #x += 50* delta_time
+    for event in pygame.event.get():
+            
+        if event.type == pygame.QUIT:
+            run = False
+        
+        if keyPress[pygame.K_d] == True:
+            player.playerMoveRight(gameScreen.width)
+        if keyPress[pygame.K_a] == True:
+            player.playerMoveLeft()
+        if keyPress[pygame.K_w] == True:
+            player.playerMoveUp()
+        if keyPress[pygame.K_s] == True:
+            player.playerMoveDown(gameScreen.height)
+            #(player.position)[0] + 1
+            #print(str(player.x), str(player.y))
+    #takes inputs from keyboard and correspons them to functions
+            
+    #deltaTime = clock.tick(60) / 1000
+    #deltaTime = max(0,001, min)
+        
+    player.draw(gameScreen.window)
+            
+    pygame.display.update()
+            
+            
+            
+
+pygame.quit()
+
+        
+        
+        
+        
+'''        elif key[pygame.K_a] == True:
+            player.playerMoveLeft
+        elif key[pygame.K_d] == True:
+            player.playerMoveRight
+        elif key[pygame.K_w] == True:
+            player.playerMoveUp
+        elif key[pygame.K_s] == True:
+            player.playerMoveDown
+ '''  
+    
