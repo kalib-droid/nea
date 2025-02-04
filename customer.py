@@ -3,6 +3,8 @@ import random
 import GUI_
 import sys
 import os
+from GUI_ import *
+from main import * 
 
 from arial_distance.arial_distance import get_distance
 
@@ -28,10 +30,42 @@ class customer:
         salesPeriod = externSalesInPeriod 
         profit = externProfit 
     
+    def saveTwoDlistToCSVFile(filename, externList):
+        myFile = open(fileName, "w")
+        for keyword in externList:
+            counter = 0
+            lineToWrite=""
+            while counter < len(keyword)-1:
+                lineToWrite = lineToWrite+keyword[counter]+ ","
+                counter = counter+1
+            lineToWrite = lineToWrite + keyword[len(keyword)-1] + "\n"
+            myFile.write(lineToWrite)
+        myFile.close()
+        def howManyCompanies(self,fileToOpen): 
+            print(len(fileToOpen)) 
+    def print2DListWithoutTheCrap(listToPrint):
+        column = 0
+        while column < len(keywords):
+            row=0
+            lineToPrint = ""
+            while row < len(keywords[column]):
+                lineToPrint = lineToPrint + keywords[column][row] + " "
+                row = row + 1
+            column = column + 1
+            print(lineToPrint)
 
-    def howManyCompanies(self,fileToOpen): 
-        print(len(fileToOpen)) 
-     
+
+    def openFileInto2DList(fileName):
+        myFile = open("myText.txt" , "r")
+        keywords= []
+        for line in myFile:
+            line = line.strip("\n")
+            keywordsAndDefinition = line.split(",")
+            keywords.append(keywordsAndDefinition)
+        myFile.close()
+        return keywords
+        keywords = openFileInto2DList("myText")
+        print2DListWithoutTheCrap(keywords)
     def test_distance(self,x,y):
         # Write your test case here
         source = 52.575985, 1.136588 #netmatters wymondham coordinates

@@ -1,0 +1,906 @@
+customerid,customer_type,postcode,total_sales,turnover_override,staff_count,net_assets,turnover,estimated_turnover,sic_code_details
+902,private_limited,NR16 2FB,576465.12,\N,288,16852708,63445410,23040000,"10910: Manufacture of prepared feeds for farm animals, 10920: Manufacture of prepared pet foods"
+53,partnership,PE32 1JA,328767.11,12000000,\N,\N,\N,\N,41200: Construction of residential and non-residential buildings
+52787,private_limited,NR18 0WZ,269032.5,300000,\N,\N,\N,\N,"63110: Data processing, hosting and related activities"
+11758,private_limited,NR2 4SX,244211.36,34317420,1782,5533376,45298614,142560000,"78200: Temporary employment agency activities, 86900: Other human health activities"
+96816,private_limited,CB4 1YG,241748.5,10010245,134,30457069,7243429,10720000,72190: Other research and experimental development on natural sciences and engineering
+309,private_limited,PE37 7XD,233592.32,\N,35,1628961,17274237,2800000,79120: Tour operator activities
+309,private_limited,PE37 7XD,233592.32,\N,30,2526495,10443608,2400000,79120: Tour operator activities
+2503,private_limited,NR7 0TA,231651.03,\N,5,185524,9326803,400000,"87300: Residential care activities for the elderly and disabled, 70229: Management consultancy activities other than financial management"
+2503,private_limited,NR7 0TA,231651.03,\N,\N,\N,\N,\N,"87300: Residential care activities for the elderly and disabled, 70229: Management consultancy activities other than financial management"
+24949,private_limited,IP6 0NL,208446.71,\N,433,14557302,49171619,34640000,70100: Activities of head offices
+24949,private_limited,IP6 0NL,208446.71,\N,394,12904418,43061518,31520000,70100: Activities of head offices
+4396,private_limited,NR3 2EU,199613.54,\N,\N,\N,\N,\N,"45111: Sale of new cars and light motor vehicles, 45320: Retail trade of motor vehicle parts and accessories"
+198105,private_limited,TW20 9EY,158168,\N,59,37527000,70226000,4720000,64910: Financial leasing
+7033,private_limited,IP25 7AA,137802.04,44321083,\N,\N,\N,\N,"10910: Manufacture of prepared feeds for farm animals, 10920: Manufacture of prepared pet foods, 46210: Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"
+47140,private_limited,CM23 1JG,123316.98,\N,20,0,22749963,1600000,64209: Activities of other holding companies n.e.c.
+198177,private_limited,PE1 2SN,121949.85,\N,\N,\N,\N,\N,"58110: Book publishing, 58142: Publishing of consumer, business and professional journals and periodicals, 96090: Other service activities n.e.c."
+198177,private_limited,PE1 2SN,121949.85,\N,5,0,\N,400000,"58110: Book publishing, 58142: Publishing of consumer, business and professional journals and periodicals, 96090: Other service activities n.e.c."
+2501,private_limited,NR1 1RE,117201.55,4500000,55,3162231,\N,4400000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+3526,private_limited,IP24 1HX,115655.26,\N,\N,\N,\N,\N,25620: Machining
+5995,private_limited,NR18 0WZ,111706.81,0,\N,1012239,\N,\N,"65120: Non-life insurance, 65202: Non-life reinsurance"
+97587,private_limited,IP21 4HD,106522.99,2400000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+97587,private_limited,IP21 4HD,106522.99,2400000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+6429,private_limited,NR20 3JG,105528.97,5000000,22,3260813,\N,1760000,"43290: Other construction installation\
+"
+33499,private_limited,IP7 5PW,104911.07,4800000,43,2297137,\N,3440000,20420: Manufacture of perfumes and toilet preparations
+197332,private_limited,LE19 1WP,99748.41,2880000,51,474515,\N,4080000,65120: Non-life insurance
+2545,private_limited,IP8 4JU,99265.58,9000000,6,264679,\N,480000,64209: Activities of other holding companies n.e.c.
+194105,private_limited,CB23 7AJ,99075,\N,76,6867288,5460503,6080000,72110: Research and experimental development on biotechnology
+2499,private_limited,NR10 4BG,96425.06,\N,115,9877836,38460305,9200000,"11020: Manufacture of wine from grape, 11030: Manufacture of cider and other fruit wines"
+10200,government,WV99 1NP,96000,600000000,\N,\N,\N,\N,84110: General public administration activities
+178457,private_limited,CB8 7PN,95254.66,4800000,9,91258,\N,720000,74901: Environmental consulting activities
+1667,private_limited,NR1 1SZ,95111.89,4991518,163,58992,4550512,13040000,86900: Other human health activities
+1,private_limited,WN6 9AE,92037.89,\N,52,9813684,11448086,4160000,"84220: Defence activities, 46900: Non-specialised wholesale trade, 32990: Other manufacturing not elsewhere classified"
+26755,private_limited,IP8 4DE,91021.74,\N,178,6321222,11888001,14240000,71122: Engineering related scientific and technical consulting activities
+1729,private_limited,NR17 2QZ,89299.4,2100000,\N,\N,\N,\N,32990: Other manufacturing not elsewhere classified
+1729,private_limited,NR17 2QZ,89299.4,2100000,\N,\N,\N,\N,32990: Other manufacturing not elsewhere classified
+5674,private_limited,NR6 6EG,88096.53,\N,80,31192264,18609681,6400000,86900: Other human health activities
+179111,private_limited,CO10 7QR,87079.89,5400000,38,14646214,\N,3040000,"10410: Manufacture of oils and fats, 10821: Manufacture of cocoa, and chocolate confectionery, 46370: Wholesale of coffee, tea, cocoa and spices"
+10937,private_limited,PE32 1JA,79346.34,\N,104,9321576,35301052,8320000,"46420: Wholesale of clothing and footwear, 47721: Retail sale of footwear in specialised stores"
+21932,private_limited,NR6 6BY,72847.4,3480000,58,1804325,\N,4640000,46760: Wholesale of other intermediate products
+21932,private_limited,NR6 6BY,72847.4,3480000,\N,\N,\N,\N,46760: Wholesale of other intermediate products
+21932,private_limited,NR6 6BY,72847.4,3480000,\N,\N,\N,\N,46760: Wholesale of other intermediate products
+4332,private_limited,NR21 8NW,69961.99,15000000,\N,\N,\N,\N,"96090: Other service activities n.e.c., 20411: Manufacture of soap and detergents"
+87308,private_limited,W1W 6DW,69183.35,120000,\N,\N,\N,\N,90010: Performing arts
+61653,private_limited,NR12 9EU,69035.82,663780,66,757922,\N,5280000,87900: Other residential care activities
+1359,private_limited,NR6 5AP,66372,\N,251,25011291,85898001,20080000,20200: Manufacture of pesticides and other agrochemical products
+194121,private_limited,NW10 7XF,64896,8058843,72,1629288,7601739,5760000,52103: Operation of warehousing and storage facilities for land transport activities of division 49
+25393,private_limited,PE33 0AX,64205.24,\N,42,8817059,20427031,3360000,"46150: Agents involved in the sale of furniture, household goods, hardware and ironmongery"
+1509,non_profit,NR12 7JN,63543.07,2100000,\N,\N,\N,\N,88910: Child day-care activities
+3592,private_limited,PE34 3LW,59320,1800000,\N,\N,\N,\N,10890: Manufacture of other food products
+3592,private_limited,PE34 3LW,59320,1800000,\N,723089,\N,\N,10890: Manufacture of other food products
+3754,private_limited,NR18 0QJ,55190.68,10109055,81,2300166,9102400,6480000,"43290: Other construction installation\
+"
+28948,private_limited,EN6 3JN,55167.88,7500000,\N,655821,\N,\N,"46440: Wholesale of china and glassware and cleaning materials, 13300: Finishing of textiles"
+181186,private_limited,IP31 2AR,54336.12,\N,164,42715876,48664721,13120000,28302: Manufacture of agricultural and forestry machinery (other than agricultural tractors)
+4702,private_limited,NR14 8TZ,52438.61,2100000,\N,277938,\N,\N,87300: Residential care activities for the elderly and disabled
+4702,private_limited,NR14 8TZ,52438.61,2100000,12,235385,\N,960000,87300: Residential care activities for the elderly and disabled
+179874,private_limited,NR21 7AS,51078.3,\N,\N,\N,\N,\N,"10890: Manufacture of other food products, 11060: Manufacture of malt"
+179156,private_limited,NR6 5AQ,49307.88,\N,86,87455,2864825,6880000,"88100: Social work activities without accommodation for the elderly and disabled, 78200: Temporary employment agency activities"
+135,private_limited,NR18 0WZ,47449.51,11000000,\N,\N,\N,\N,62090: Other information technology service activities
+135,private_limited,NR18 0WZ,47449.51,11000000,113,1382994,\N,9040000,62090: Other information technology service activities
+52460,private_limited,LE19 1SX,46594.84,4500000,80,268989,\N,6400000,69102: Solicitors
+52460,private_limited,LE19 1SX,46594.84,4500000,78,305601,\N,6240000,69102: Solicitors
+35727,private_limited,IP29 5AX,45643,2000000,18,826009,\N,1440000,"10920: Manufacture of prepared pet foods, 47910: Retail sale via mail order houses or via Internet, 47990: Other retail sale not in stores, stalls or markets"
+180473,private_limited,CB7 5UN,45064.49,1200000,\N,\N,\N,\N,"01610: Support activities for crop production, 70100: Activities of head offices"
+101678,school,SW16 1AW,44462,6000000,\N,\N,\N,\N,"85100: Pre-primary education, 85310 : General secondary education, 85200: Primary education, 85410: Post-secondary non-tertiary education"
+1865,private_limited,NR12 8DB,43164.63,\N,423,37459445,56518012,33840000,"47110: Retail sale in non-specialised stores with food, beverages or tobacco predominating, 47190: Other retail sale in non-specialised stores"
+7285,private_limited,NR3 1AB,42891.09,1800000,38,3274627,\N,3040000,66220: Activities of insurance agents and brokers
+95443,private_limited,IP7 6DN,42273.9,\N,\N,\N,\N,\N,10920: Manufacture of prepared pet foods
+95443,private_limited,IP7 6DN,42273.9,\N,112,9355265,28207619,8960000,10920: Manufacture of prepared pet foods
+95443,private_limited,IP7 6DN,42273.9,\N,96,8063883,27513596,7680000,10920: Manufacture of prepared pet foods
+179483,government,NR4 7UG,42000,1800000,\N,\N,\N,\N,84110: General public administration activities
+2599,private_limited,NR16 2HE,41231.12,\N,\N,\N,\N,\N,91040: Botanical and zoological gardens and nature reserve activities
+1434,private_limited,NR1 2EN,39764.37,152999180,244,11300502,143030055,19520000,"46610: Wholesale of agricultural machinery, equipment and supplies"
+194022,private_limited,NR5 9HA,38082.73,\N,42,0,15667315,3360000,"47990: Other retail sale not in stores, stalls or markets"
+194022,private_limited,NR5 9HA,38082.73,\N,\N,\N,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+34687,private_limited,NR19 1AD,37817.94,4200000,\N,420662,\N,\N,"47240: Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"
+7878,private_limited,NR2 1JA,37375.5,2100000,19,2554863,\N,1520000,47770: Retail sale of watches and jewellery in specialised stores
+1960,private_limited,NR9 5ES,37265.34,14278000,53,163221000,12104000,4240000,94910: Activities of religious organisations
+1855,private_limited,NR6 6BF,36900,\N,117,12674000,25267000,9360000,28921: Manufacture of machinery for mining
+35342,private_limited,NR13 6PL,36495,2220000,38,279155,\N,3040000,"45320: Retail trade of motor vehicle parts and accessories, 33120: Repair of machinery, 33170: Repair and maintenance of other transport equipment"
+61580,partnership,CB1 2LA,36260,19620000,6,339052,\N,480000,70221: Financial management
+61580,partnership,CB1 2LA,36260,19620000,6,404936,\N,480000,70221: Financial management
+4380,private_limited,NR1 3DY,36140.29,300000,\N,\N,\N,\N,62012: Business and domestic software development
+9250,private_limited,NR2 1AT,35988.18,625000,43,746492,\N,3440000,78200: Temporary employment agency activities
+100263,private_limited,DT1 3AQ,34884,1000000,4,215739,\N,320000,"10890: Manufacture of other food products, 10920: Manufacture of prepared pet foods"
+66238,private_limited,IP30 9QS,34783.42,3000000,\N,\N,\N,\N,"46740: Wholesale of hardware, plumbing and heating equipment and supplies, 43220: Plumbing, heat and air-conditioning installation"
+4598,private_limited,NR18 0RD,34573.8,4811540,\N,\N,\N,\N,25110: Manufacture of metal structures and parts of structures
+1178,partnership,NR19 1DW,34243.59,9000000,\N,\N,\N,\N,69102: Solicitors
+69412,private_limited,CB8 7AU,33710,\N,55,3668183,16202561,4400000,47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)
+193661,private_limited,SL9 8RR,33448.2,\N,84,5978404,5268347,6720000,85200: Primary education
+1362,private_limited,NR18 9QY,33216.79,\N,196,25866305,143613028,15680000,"46120: Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+4746,private_limited,NR30 4DA,33108.9,1750000,17,810739,\N,1360000,47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)
+10019,partnership,CB2 1NL,32668,26376677,309,13136244,31320941,24720000,69102: Solicitors
+197715,private_limited,NR2 1JF,32397.29,\N,\N,\N,\N,\N,"47190: Other retail sale in non-specialised stores, 68201: Renting and operating of Housing Association real estate"
+197715,private_limited,NR2 1JF,32397.29,\N,419,57400000,32091000,33520000,"47190: Other retail sale in non-specialised stores, 68201: Renting and operating of Housing Association real estate"
+197715,private_limited,NR2 1JF,32397.29,\N,\N,\N,\N,\N,"47190: Other retail sale in non-specialised stores, 68201: Renting and operating of Housing Association real estate"
+197715,private_limited,NR2 1JF,32397.29,\N,398,52201000,31867000,31840000,"47190: Other retail sale in non-specialised stores, 68201: Renting and operating of Housing Association real estate"
+198585,private_limited,CB21 5DU,32342.3,2000000,\N,\N,\N,\N,"75000: Veterinary activities, 86210: General medical practice activities"
+198585,private_limited,CB21 5DU,32342.3,2000000,2,25494,\N,160000,"75000: Veterinary activities, 86210: General medical practice activities"
+44201,private_limited,NR33 7NL,32261.02,1750000,17,742939,\N,1360000,"43999: Other specialised construction activities n.e.c., 13300: Finishing of textiles"
+44201,private_limited,NR33 7NL,32261.02,1750000,17,774566,\N,1360000,"43999: Other specialised construction activities n.e.c., 13300: Finishing of textiles"
+7998,private_limited,NR34 7BF,32156.03,10726677,64,6351149,10726677,5120000,"41202: Construction of domestic buildings, 41201: Construction of commercial buildings"
+179740,private_limited,CM23 1JG,31160.18,\N,13,978558,3328123,1040000,47770: Retail sale of watches and jewellery in specialised stores
+2515,private_limited,NR10 4FE,30530.61,2100000,\N,\N,\N,\N,32990: Other manufacturing not elsewhere classified
+17833,partnership,IP1 3HD,30372.41,3600000,\N,\N,\N,\N,69102: Solicitors
+17833,partnership,IP1 3HD,30372.41,3600000,\N,370296,\N,\N,69102: Solicitors
+60321,private_limited,PE28 0JQ,30155.8,\N,5,233072,\N,400000,29201: Manufacture of bodies (coachwork) for motor vehicles (except caravans)
+128867,school,LE11 2AE,29971.37,14400000,\N,\N,\N,\N,"85100: Pre-primary education, 85200: Primary education, 85310 : General secondary education, 68209: Other letting and operating of own or leased real estate"
+60494,partnership,SW11 3RS,29842.42,3180000,\N,\N,\N,\N,69102: Solicitors
+60494,partnership,SW11 3RS,29842.42,3180000,53,1255840,\N,4240000,69102: Solicitors
+2931,private_limited,NR2 1AD,29231.5,3500000,\N,\N,\N,\N,62090: Other information technology service activities
+4296,private_limited,NR1 1BJ,28325,\N,88,3162489,4937836,7040000,82990: Other business support service activities not elsewhere classified
+4296,private_limited,NR1 1BJ,28325,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+56057,private_limited,B91 3BD,27854.68,2460000,40,976432,\N,3200000,69102: Solicitors
+24334,private_limited,NR6 6AZ,27705.24,1020000,30,631810,\N,2400000,22290: Manufacture of other plastic products
+95322,private_limited,SE13 7FY,26767.4,0,10,31878,\N,800000,"85310 : General secondary education, 85600: Educational support activities, 85310: General secondary education"
+189504,private_limited,WR4 9FA,25885.81,9600000,\N,\N,\N,\N,81100: Combined facilities support activities
+189504,private_limited,WR4 9FA,25885.81,9600000,160,698225,\N,12800000,81100: Combined facilities support activities
+876,private_limited,NR2 1QH,25570,4500000,\N,\N,\N,\N,86900: Other human health activities
+9021,private_limited,NR9 4AR,25400.1,\N,8,3965846,\N,640000,"77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+57465,private_limited,CB1 1HW,25148.59,1860000,30,20528,\N,2400000,"69203: Tax consultancy, 69201: Accounting and auditing activities"
+198854,private_limited,CO2 7GL,24778.04,540000,\N,\N,\N,\N,86900: Other human health activities
+198854,private_limited,CO2 7GL,24778.04,540000,6,73324,\N,480000,86900: Other human health activities
+95191,private_limited,NR17 2LD,23835.7,420000,\N,2819079,\N,\N,"47990: Other retail sale not in stores, stalls or markets, 45112: Sale of used cars and light motor vehicles"
+95191,private_limited,NR17 2LD,23835.7,420000,\N,2819079,\N,\N,"45112: Sale of used cars and light motor vehicles, 47990: Other retail sale not in stores, stalls or markets"
+4312,private_limited,NR13 6JY,23805.32,\N,\N,\N,\N,\N,96090: Other service activities n.e.c.
+28345,private_limited,RM9 6RH,23376.78,\N,\N,\N,\N,\N,"46730: Wholesale of wood, construction materials and sanitary equipment"
+31954,private_limited,NR2 4SZ,23241.77,700000,12,47055,\N,960000,70221: Financial management
+91137,private_limited,NR14 6BJ,22848.21,\N,268,5969120,12790278,21440000,"85310: General secondary education, 85200: Primary education, 85320: Technical and vocational secondary education"
+21739,private_limited,NR31 0LU,22759.27,1200000,\N,801985,\N,\N,28990: Manufacture of other special-purpose machinery
+180447,private_limited,IP18 6SY,22664.96,\N,49,10287479,27653781,3920000,46650: Wholesale of office furniture
+49198,private_limited,PE7 2AJ,21525.33,600000,11,457191,\N,880000,"45200: Maintenance and repair of motor vehicles, 45111: Sale of new cars and light motor vehicles, 45112: Sale of used cars and light motor vehicles"
+92164,private_limited,NN8 4HB,21500,\N,60,30713718,21103183,4800000,68209: Other letting and operating of own or leased real estate
+15646,private_limited,NR2 4EE,21357.77,2220000,45,1004672,\N,3600000,46310: Wholesale of fruit and vegetables
+47506,private_limited,IP25 6UP,21094.47,500000,\N,\N,\N,\N,43910: Roofing activities
+47506,private_limited,IP25 6UP,21094.47,500000,\N,\N,\N,\N,43910: Roofing activities
+8525,private_limited,IP24 1HP,21026.45,3116425,18,1194719,\N,1440000,18129: Printing not elsewhere classified
+44323,private_limited,IP30 9UP,20556.17,1080000,23,1323162,\N,1840000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+7881,private_limited,NR31 0NL,20485.37,780000,14,2043018,\N,1120000,28131: Manufacture of pumps
+19693,school,NR10 4JP,20353.33,12000000,\N,\N,\N,\N,"85100: Pre-primary education, 85310 : General secondary education, 85200: Primary education"
+3539,private_limited,NR5 9JJ,20135.99,\N,82,2732276,9966298,6560000,"18129: Printing not elsewhere classified, 17219: Manufacture of paper and paperboard containers other than sacks and bags"
+576,private_limited,IP25 6EZ,19959.5,2040000,36,1320680,\N,2880000,43910: Roofing activities
+113501,school,BA1 5SZ,19720,6000000,\N,\N,\N,\N,"85310 : General secondary education, 85410: Post-secondary non-tertiary education, 85100: Pre-primary education, 85200: Primary education"
+45337,private_limited,CB7 4EX,19416.11,\N,187,9896000,40629000,14960000,"82190: Photocopying, document preparation and other specialised office support activities"
+7550,private_limited,NR31 0NA,19389.12,700000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+4602,private_limited,NR3 2BN,19305.38,480000,8,247147,\N,640000,43342: Glazing
+4602,private_limited,NR3 2BN,19305.38,480000,\N,\N,\N,\N,43342: Glazing
+198497,private_limited,SE4 1YD,19253.55,583878,\N,\N,\N,\N,"55900: Other accommodation, 55900: Other accommodation"
+198497,private_limited,SE4 1YD,19253.55,583878,18,983106,583878,1440000,"55900: Other accommodation, 55900: Other accommodation"
+16627,private_limited,IP22 4JZ,19216,3300000,46,681924,\N,3680000,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+16627,private_limited,IP22 4JZ,19216,3300000,\N,\N,\N,\N,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+1405,private_limited,NR10 5NX,19078.28,120000,1,33424,\N,80000,74901: Environmental consulting activities
+44672,private_limited,PE36 5BB,19044.07,\N,242,8321555,16053670,19360000,"55100: Hotels and similar accommodation, 55201: Holiday centres and villages, 55300: Camping grounds, recreational vehicle parks and trailer parks"
+1202,private_limited,EC3R 7PD,18957,\N,\N,\N,\N,\N,"66220: Activities of insurance agents and brokers, 65120: Non-life insurance, 65202: Non-life reinsurance"
+1202,private_limited,EC3R 7PD,18957,\N,\N,\N,\N,\N,"66220: Activities of insurance agents and brokers, 65202: Non-life reinsurance, 65120: Non-life insurance"
+197354,private_limited,N1 9NW,18509.33,\N,13,1521609,\N,1040000,74902: Quantity surveying activities
+26926,private_limited,NN2 7AZ,18378.58,660000,11,94352,\N,880000,78200: Temporary employment agency activities
+180901,private_limited,IP27 0PL,18369.89,\N,\N,\N,\N,\N,43999: Other specialised construction activities n.e.c.
+66537,private_limited,,18300,\N,\N,\N,\N,\N,\N
+57120,private_limited,CB4 0WS,18292.31,780000,9,5072909,\N,720000,61200: Wireless telecommunications activities
+178217,school,SE3 0TF,18105,6000000,\N,\N,\N,\N,8021: General secondary education
+52025,private_limited,PE31 6LY,18102.66,1440000,21,267911,\N,1680000,64999: Financial intermediation not elsewhere classified
+33460,private_limited,SS0 0NF,17918.4,900000,18,3447305,\N,1440000,46180: Agents specialised in the sale of other particular products
+16735,private_limited,NR14 7PZ,17570.92,840000,14,871930,\N,1120000,96090: Other service activities n.e.c.
+88998,private_limited,NR4 6DJ,17508.32,\N,274,2335841,38013230,21920000,"46510: Wholesale of computers, computer peripheral equipment and software\
+"
+198353,private_limited,RH6 9TF,17385.73,\N,\N,\N,\N,\N,52290: Other transportation support activities
+31241,school,NR2 2HU,17215,6000000,\N,\N,\N,\N,"85200: Primary education, 85310 : General secondary education, 85100: Pre-primary education, 85410: Post-secondary non-tertiary education"
+180323,private_limited,PE38 9SW,17199.6,2400000,\N,\N,\N,\N,"43220: Plumbing, heat and air-conditioning installation"
+180323,private_limited,PE38 9SW,17199.6,2400000,40,762868,\N,3200000,"43220: Plumbing, heat and air-conditioning installation"
+3814,private_limited,NR2 1RL,17173.21,\N,237,7597031,18389947,18960000,"90030: Artistic creation, 90010: Performing arts"
+1487,sole_trader,NR16 1AB,17023.77,1500000,\N,\N,\N,\N,10120: Processing and preserving of poultry meat
+96465,private_limited,SK10 4TG,16955.39,1080000,4,416669,\N,320000,82990: Other business support service activities not elsewhere classified
+197868,private_limited,NN8 4HB,16920,\N,\N,\N,\N,\N,68209: Other letting and operating of own or leased real estate
+2988,private_limited,NR6 5AQ,16903.18,2448420,\N,\N,\N,\N,64304: Activities of open-ended investment companies
+24397,private_limited,PE30 4HY,16752.55,7500000,65,4153475,\N,5200000,25110: Manufacture of metal structures and parts of structures
+192520,private_limited,RG1 1AX,16721.21,\N,\N,\N,\N,\N,62090: Other information technology service activities
+96880,private_limited,NN4 6UU,16698,\N,\N,\N,\N,\N,"85100: Pre-primary education, 85200: Primary education, 85310: General secondary education"
+96880,private_limited,NN4 6UU,16698,\N,4545,530985000,314386000,363600000,"85100: Pre-primary education, 85200: Primary education, 85310: General secondary education"
+46690,private_limited,CB6 3NX,16418.98,4080000,70,2574237,\N,5600000,14190: Manufacture of other wearing apparel and accessories
+5530,private_limited,NR18 0SW,16405.53,553721,16,326439,629602,1280000,"84120: Regulation of health care, education, cultural and other social services, not incl. social security"
+60312,private_limited,PE1 5UA,16357.06,3300000,\N,\N,\N,\N,47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)
+43693,private_limited,NR31 0LS,15360.13,2040000,39,2307078,\N,3120000,43999: Other specialised construction activities n.e.c.
+34457,private_limited,SS2 6UN,15165.63,3620279,11,1544176,\N,880000,"46520: Wholesale of electronic and telecommunications equipment and parts, 26110: Manufacture of electronic components"
+18139,private_limited,NR31 7RQ,14750,2040000,34,783902,\N,2720000,46760: Wholesale of other intermediate products
+18139,private_limited,NR31 7RQ,14750,2040000,32,693391,\N,2560000,46760: Wholesale of other intermediate products
+57629,private_limited,NR29 5ET.,14733,1000000,\N,280098,\N,\N,79110: Travel agency activities
+57629,private_limited,NR29 5ET.,14733,1000000,\N,\N,\N,\N,79110: Travel agency activities
+29725,private_limited,NR31 0NX,14629,1500000,9,228661,\N,720000,43999: Other specialised construction activities n.e.c.
+29725,private_limited,NR31 0NX,14629,1500000,\N,\N,\N,\N,43999: Other specialised construction activities n.e.c.
+179545,private_limited,NR7 0DY,14584.8,360000,\N,573131,\N,\N,56290: Other food services
+179545,private_limited,NR7 0DY,14584.8,360000,3,0,\N,240000,56290: Other food services
+16423,partnership,CO1 1HQ,14463.85,1080000,\N,\N,\N,\N,69102: Solicitors
+194151,private_limited,PE33 0HY,14446.66,\N,\N,\N,\N,\N,41100: Development of building projects
+3502,private_limited,NR7 0HF,14261.39,900000,10,781544,\N,800000,64999: Financial intermediation not elsewhere classified
+1472,partnership,NR1 3GA,14215,3110451,54,461901,3349344,4320000,69102: Solicitors
+197374,private_limited,RH10 9PE,14006.39,2100000,18,78155,\N,1440000,82990: Other business support service activities not elsewhere classified
+5870,private_limited,NR17 2BN,13881.16,300000,4,34585,\N,320000,"68310: Other letting aReal estate agenciesnd operating of own or leased real estate, 68320: Management of real estate on a fee or contract basis"
+1288,private_limited,NR6 6HQ,13718.72,960000,16,677997,\N,1280000,96090: Other service activities n.e.c.
+194402,private_limited,NR10 5RP,13669.17,240000,3,341167,\N,240000,41202: Construction of domestic buildings
+193279,private_limited,NR5 9NJ,13536.94,300000,105,464121,\N,8400000,"87100: Residential nursing care facilities, 87300: Residential care activities for the elderly and disabled"
+1156,private_limited,NR3 1DJ,13351.24,2100000,\N,\N,\N,\N,78109: Other activities of employment placement agencies
+1156,private_limited,NR3 1DJ,13351.24,2100000,10,37750,\N,800000,78109: Other activities of employment placement agencies
+2523,private_limited,NR32 1XA,13226.25,\N,73,565219,9220849,5840000,33120: Repair of machinery
+67020,private_limited,CB24 4AA,12956.5,\N,6,671860,\N,480000,41100: Development of building projects
+5786,private_limited,NR30 3QR,12850,\N,10,486457,3517993,800000,78300: Other human resources provision
+20359,partnership,PE3 6AG,12560,9000000,98,1281677,\N,7840000,69102: Solicitors
+4464,private_limited,NR4 7UH,12343.81,600000,13,0,\N,1040000,72110: Research and experimental development on biotechnology
+6793,private_limited,NR18 0SW,12240,3336160,19,467673,\N,1520000,64999: Financial intermediation not elsewhere classified
+15589,private_limited,NR7 0WG,11831.2,\N,65,2601239,4960454,5200000,65110: Life insurance
+197569,private_limited,,11663.11,\N,\N,\N,\N,\N,\N
+198672,private_limited,KT22 7LU,11490,5000000,15,0,\N,1200000,"52290: Other transportation support activities, 58190: Other publishing activities"
+10379,private_limited,NR35 2NS,11421.54,\N,11,470084,\N,880000,25990: Manufacture of other fabricated metal products
+197470,private_limited,TN2 3GP,11396.2,\N,\N,\N,\N,\N,25990: Manufacture of other fabricated metal products
+90726,private_limited,PE34 3NJ,11340,5000000,\N,325809,\N,\N,"23700: Cutting, shaping and finishing of stone"
+7977,private_limited,NR6 6HG,11313.99,2040000,\N,\N,\N,\N,46310: Wholesale of fruit and vegetables
+7977,private_limited,NR6 6HG,11313.99,2040000,34,438217,\N,2720000,46310: Wholesale of fruit and vegetables
+1274,private_limited,NR18 0QB,11296.66,\N,7,0,85408,560000,93120: Activities of sport clubs
+1274,private_limited,NR18 0QB,11296.66,\N,\N,\N,\N,\N,93120: Activities of sport clubs
+61264,private_limited,NR4 7GJ,11174.96,600000,6,1731085,\N,480000,72110: Research and experimental development on biotechnology
+61264,private_limited,NR4 7GJ,11174.96,600000,9,516547,\N,720000,72110: Research and experimental development on biotechnology
+28558,private_limited,CB2 9LS,11050.28,300000,14,745038,\N,1120000,78109: Other activities of employment placement agencies
+15872,private_limited,NR2 4HY,11016.87,0,12,78933,\N,960000,69102: Solicitors
+15872,private_limited,NR2 4HY,11016.87,0,\N,\N,\N,\N,69102: Solicitors
+8076,private_limited,NR31 0NG,11000.22,2520000,\N,\N,\N,\N,"46140: Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+199321,private_limited,NN8 4HB,10980.8,\N,\N,\N,\N,\N,68209: Other letting and operating of own or leased real estate
+46069,private_limited,IP6 0NL,10867.87,17960000,\N,\N,\N,\N,46760: Wholesale of other intermediate products
+46069,private_limited,IP6 0NL,10867.87,17960000,\N,\N,\N,\N,46760: Wholesale of other intermediate products
+1836,private_limited,NR2 1EU,10846.94,3840000,65,630007,\N,5200000,69102: Solicitors
+1836,private_limited,NR2 1EU,10846.94,3840000,\N,\N,\N,\N,69102: Solicitors
+46993,school,IP13 9HE,10828.81,\N,162,8769490,7529502,12960000,"85310 : General secondary education, 85410: Post-secondary non-tertiary education, 85310: General secondary education"
+46720,private_limited,SG8 5HN,10737.71,\N,75,5127560,8886821,6000000,18121: Manufacture of printed labels
+16810,partnership,NR7 0TA,10623.3,6000000,\N,\N,\N,\N,47190: Other retail sale in non-specialised stores
+1745,private_limited,IP20 9EH,10532.6,300000,2,33420,\N,160000,25400: Manufacture of weapons and ammunition
+2579,private_limited,NR3 3SA,10401.26,3276642,35,786333,3023773,2800000,66300: Fund management activities
+18517,private_limited,NR31 0LS,10144.39,360000,\N,\N,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+18517,private_limited,NR31 0LS,10144.39,360000,\N,232382,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+176269,school,CF5 2YD,10050,9000000,\N,\N,\N,\N,"85310 : General secondary education, 85200: Primary education"
+197920,government,SG1 2AD,10000,120000000,\N,\N,\N,\N,84110: General public administration activities
+6340,private_limited,RG2 0LU,9775,\N,\N,\N,\N,\N,25110: Manufacture of metal structures and parts of structures
+95605,private_limited,NR29 5DR,9735.63,0,2,377,\N,160000,"81210: General cleaning of buildings, 81300: Landscape service activities, 03220: Freshwater aquaculture, 03210: Marine aquaculture"
+95605,private_limited,NR29 5DR,9735.63,0,\N,\N,\N,\N,"81300: Landscape service activities, 81210: General cleaning of buildings, 03220: Freshwater aquaculture, 03210: Marine aquaculture"
+181309,private_limited,IP3 9RU,9491.2,\N,208,14294000,100701000,16640000,41100: Development of building projects
+7995,private_limited,NR31 6QT,9289.52,300000,4,572327,\N,320000,82990: Other business support service activities not elsewhere classified
+81750,private_limited,E2 8HD,9286.68,5000000,12,297441,\N,960000,73110: Advertising agencies
+194075,private_limited,NR10 4SW,9276.59,600000,6,9252,\N,480000,45200: Maintenance and repair of motor vehicles
+756,private_limited,M4 3AG,9221.5,\N,148100,4684000000,26693000000,11848000000,"47110: Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+23311,private_limited,CB5 8UY,9038.81,1717490,\N,\N,\N,\N,43999: Other specialised construction activities n.e.c.
+98667,private_limited,IP24 1HU,9017.36,3000000,\N,\N,\N,\N,81300: Landscape service activities
+6952,private_limited,IP25 6NG,9016.05,\N,48,1770015,\N,3840000,38110: Collection of non-hazardous waste
+44132,private_limited,NR13 5PX,8980.45,4450000,\N,1701011,\N,\N,"30110: Building of ships and floating structures, 30120: Building of pleasure and sporting boats, 33150: Repair and maintenance of ships and boats"
+44132,private_limited,NR13 5PX,8980.45,4450000,23,1701011,\N,1840000,"30110: Building of ships and floating structures, 30120: Building of pleasure and sporting boats, 33150: Repair and maintenance of ships and boats"
+10223,private_limited,NR7 9AR,8958.14,493565,7,159595,\N,560000,18129: Printing not elsewhere classified
+7800,private_limited,NR18 0SW,8937.25,\N,5,3073523,\N,400000,68100: Buying and selling of own real estate
+180430,private_limited,IP24 1HG,8906.72,0,\N,\N,\N,\N,25990: Manufacture of other fabricated metal products
+180430,private_limited,IP24 1HG,8906.72,0,48,1184385,\N,3840000,25990: Manufacture of other fabricated metal products
+58413,private_limited,NR16 2JU,8863.11,\N,105,0,14198936,8400000,"82990: Other business support service activities not elsewhere classified, 10390: Other processing and preserving of fruit and vegetables"
+11612,private_limited,NR2 1DZ,8745,\N,117,1189821,4889562,9360000,"94990: Activities of other membership organisations, 88100: Social work activities without accommodation for the elderly and disabled"
+454,private_limited,SW1Y 4LB,8738.91,480000,8,2492404,\N,640000,"82200: Activities of call centres, 94990: Activities of other membership organisations"
+562,non_profit,SE1 2AH,8669.09,\N,\N,\N,\N,\N,94910: Activities of religious organisations
+177292,private_limited,KT17 1SJ,8418.98,2520000,41,298782,\N,3280000,68320: Management of real estate on a fee or contract basis
+8219,private_limited,NR2 4EE,8401.94,6428838,19,2592000,6846000,1520000,"47910: Retail sale via mail order houses or via Internet, 43290: Other construction installation\
+"
+5608,private_limited,NR9 3AZ,8263.14,13013820,43,604935,\N,3440000,38320: Recovery of sorted materials
+119303,school,SP7 9QA,8225.81,7200000,\N,\N,\N,\N,"85100: Pre-primary education, 85200: Primary education, 85310 : General secondary education"
+49207,private_limited,PE7 3EQ,8190.52,\N,\N,\N,\N,\N,20590: Manufacture of other chemical products
+4740,private_limited,NR13 6PS,8173.43,1800000,25,306346,\N,2000000,"43210: Electrical installation, 80200: Security systems service activities"
+8778,private_limited,G71 6NZ,8122.05,2700000,\N,\N,\N,\N,"46390: Non-specialised wholesale of food, beverages and tobacco"
+8778,private_limited,G71 6NZ,8122.05,2700000,103,0,32969151,8240000,"46390: Non-specialised wholesale of food, beverages and tobacco"
+11458,private_limited,IP32 6BS,8121.65,\N,\N,\N,\N,\N,28990: Manufacture of other special-purpose machinery
+3989,private_limited,NR17 1DY,8113.82,180000,3,27470,\N,240000,95240: Repair of furniture and home furnishings
+10819,private_limited,NR18 9TN,7857.3,300000,14,230568,\N,1120000,"01290: Growing of other perennial crops, 01300: Plant propagation"
+5391,private_limited,NR28 0JQ,7766.43,3240000,63,851507,\N,5040000,93120: Activities of sport clubs
+1084,private_limited,NR1 2DH,7701.95,150000000,\N,\N,\N,\N,"56103: Take away food shops and mobile food stands, 56103: Take-away food shops and mobile food stands"
+1084,private_limited,NR1 2DH,7701.95,150000000,5,32494,\N,400000,"56103: Take away food shops and mobile food stands, 56103: Take-away food shops and mobile food stands"
+1492,private_limited,NR9 4AB,7515.65,300000,\N,28054,\N,\N,02400: Support services to forestry
+179655,private_limited,CB11 3AQ,7511.91,\N,\N,\N,\N,\N,32990: Other manufacturing not elsewhere classified
+177304,private_limited,PE38 0AL,7440.81,720000,12,288447,\N,960000,39000: Remediation activities and other waste management services
+177304,private_limited,PE38 0AL,7440.81,720000,12,288447,\N,960000,39000: Remediation activities and other waste management services
+177304,private_limited,PE38 0AL,7440.81,720000,\N,\N,\N,\N,39000: Remediation activities and other waste management services
+404,private_limited,IP25 7DB,7384.4,300000,5,32579,\N,400000,82110: Combined office administrative service activities
+60057,private_limited,PE27 3JX,7360,\N,25,543514,\N,2000000,37000: Sewerage
+3480,private_limited,NR1 1PH,7204.56,300000,1,100436,\N,80000,88990: Other social work activities without accommodation n.e.c.
+70058,private_limited,NR34 9TY,7204.41,\N,4,1899378,\N,320000,68209: Other letting and operating of own or leased real estate
+198183,private_limited,NR31 0NX,7140,660000,11,20381,\N,880000,42210: Construction of utility projects for fluids
+7965,private_limited,NR31 0NG,7129.48,1560000,26,3358800,\N,2080000,"28131: Manufacture of pumps, 77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+7965,private_limited,NR31 0NG,7129.48,1560000,\N,\N,\N,\N,"28131: Manufacture of pumps, 77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+193846,private_limited,PE21 6JE,7059.67,\N,96,7617773,5349233,7680000,85310: General secondary education
+71011,private_limited,L12 2AP,7024.75,\N,35,7750000,8284000,2800000,86101: Hospital activities
+38704,private_limited,PE29 3TE,7014,1800000,\N,\N,\N,\N,88100: Social work activities without accommodation for the elderly and disabled
+178832,private_limited,IP14 3LS,7006.88,1800000,1,195829,\N,80000,82990: Other business support service activities not elsewhere classified
+48676,private_limited,NR6 6AQ,6979.08,1560000,30,420461,\N,2400000,47910: Retail sale via mail order houses or via Internet
+27421,private_limited,AL1 3UU,6912,4500000,73,2915269,\N,5840000,69101: Barristers at law
+17411,private_limited,IP28 6JY,6888,2100000,\N,1398872,\N,\N,64209: Activities of other holding companies n.e.c.
+17411,private_limited,IP28 6JY,6888,2100000,4,884479,\N,320000,64209: Activities of other holding companies n.e.c.
+36661,private_limited,IP28 7HS,6870.25,900000,\N,\N,\N,\N,"4534: Other building installation, 46150: Agents involved in the sale of furniture, household goods, hardware and ironmongery, 31090: Manufacture of other furniture, 31020: Manufacture of kitchen furniture"
+21811,private_limited,NR3 3HY,6849,540000,19,3263864,\N,1520000,74902: Quantity surveying activities
+36728,private_limited,NR3 1SB,6827.05,\N,378,5706948,15419127,30240000,85200: Primary education
+179502,private_limited,NR13 6PX,6798.39,20371535,103,2486643,21011450,8240000,71129: Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)
+58444,private_limited,TW9 2PR,6743.01,\N,6,5929889,5010341,480000,12000: Manufacture of tobacco products
+194100,private_limited,IP256LF,6714,600000,2,9524,\N,160000,43210: Electrical installation
+194100,private_limited,IP256LF,6714,600000,\N,9524,\N,\N,43210: Electrical installation
+194100,private_limited,IP256LF,6714,600000,4,8216,\N,320000,43210: Electrical installation
+26257,private_limited,NR14 8AE,6656.83,360000,6,161217,\N,480000,86230: Dental practice activities
+1597,private_limited,NR17 1EJ,6616.65,54000000,41,1942270,\N,3280000,70100: Activities of head offices
+3741,private_limited,NR18 0XJ,6291.6,\N,\N,\N,\N,\N,96090: Other service activities n.e.c.
+177702,private_limited,IP3 9SQ,6232.04,\N,43,3030592,25056346,3440000,"45111: Sale of new cars and light motor vehicles, 45112: Sale of used cars and light motor vehicles, 45200: Maintenance and repair of motor vehicles, 45320: Retail trade of motor vehicle parts and accessories"
+177702,private_limited,IP3 9SQ,6232.04,\N,\N,\N,\N,\N,"45111: Sale of new cars and light motor vehicles, 45112: Sale of used cars and light motor vehicles, 45200: Maintenance and repair of motor vehicles, 45320: Retail trade of motor vehicle parts and accessories"
+4278,private_limited,NR3 2BS,6171.99,600000,\N,\N,\N,\N,"46760: Wholesale of other intermediate products, 22190: Manufacture of other rubber products"
+198558,school,HP6 5PF,6167.5,9006844,\N,\N,\N,\N,85200: Primary education
+15476,private_limited,NR20 3AS,6105.24,\N,5,37515,\N,400000,"69202: Bookkeeping activities, 69201: Accounting and auditing activities"
+57620,private_limited,PE31 8HH,6075,1200000,26,96458,\N,2080000,68209: Other letting and operating of own or leased real estate
+199258,private_limited,N6 6QS,6000,2000000,\N,\N,\N,\N,96090: Other service activities n.e.c.
+199258,private_limited,N6 6QS,6000,2000000,5,533676,\N,400000,96090: Other service activities n.e.c.
+7139,private_limited,NR17 2AT,5901.7,2100000,35,999240,\N,2800000,"43290: Other construction installation\
+"
+3770,private_limited,NR16 1ER,5852.96,3750000,38,1698237,\N,3040000,82990: Other business support service activities not elsewhere classified
+72298,private_limited,NG7 1TN,5735,3900000,188,3579932,\N,15040000,85320: Technical and vocational secondary education
+72298,private_limited,NG7 1TN,5735,3900000,187,1858594,\N,14960000,85320: Technical and vocational secondary education
+9594,private_limited,NR18 0AJ,5695.79,\N,13,423871,\N,1040000,47770: Retail sale of watches and jewellery in specialised stores
+11003,private_limited,NR31 7RU,5594.37,900000,24,1327583,\N,1920000,62012: Business and domestic software development
+182097,private_limited,CB24 3DQ,5503.7,19233664,219,1948770,20876161,17520000,69102: Solicitors
+18509,school,IP33 3RL,5400,47160000,\N,\N,\N,\N,85420: Tertiary education
+1366,private_limited,NR5 9JF,5386.49,\N,78,10751000,10709000,6240000,86900: Other human health activities
+123269,school,SO15 5UQ,5386,\N,362,45279700,26196118,28960000,"85100: Pre-primary education, 85310 : General secondary education, 85200: Primary education, 85410: Post-secondary non-tertiary education"
+9462,private_limited,NR7 0TA,5352,1489070,27,213601,\N,2160000,71122: Engineering related scientific and technical consulting activities
+199354,private_limited,PE30 2DE,5343.24,600000,5,14481,\N,400000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+199354,private_limited,PE30 2DE,5343.24,600000,\N,\N,\N,\N,"74909: Other professional, scientific and technical activities not elsewhere classified"
+24325,private_limited,NR5 9JF,5300.96,300000,3,581919,\N,240000,45200: Maintenance and repair of motor vehicles
+59883,private_limited,PE19 8EP,5166.53,\N,14,649730,\N,1120000,46520: Wholesale of electronic and telecommunications equipment and parts
+2952,private_limited,NR12 7DU,5158.03,360000,\N,79200,\N,\N,82990: Other business support service activities not elsewhere classified
+30968,school,NR4 6FF,5141.28,\N,58,\N,3289543,4640000,"85310: General secondary education, 85320: Technical and vocational secondary education"
+4879,private_limited,NR21 7DY,5134.85,0,22,2964452,\N,1760000,"38210: Treatment and disposal of non-hazardous waste, 42990: Construction of other civil engineering projects not elsewhere classified"
+20447,private_limited,NR9 4AL,5107.72,600000,\N,\N,\N,\N,46900: Non-specialised wholesale trade
+43918,private_limited,WN6 9AE,4995,\N,14,0,\N,1120000,78109: Other activities of employment placement agencies
+1402,private_limited,IP25 6TJ,4950.33,2100000,22,352422,\N,1760000,"43290: Other construction installation\
+"
+178390,private_limited,NR9 4HP,4912.03,\N,1,1,\N,80000,64209: Activities of other holding companies n.e.c.
+69359,private_limited,NR3 1DD,4886,120000,2,93389,\N,160000,69102: Solicitors
+197521,private_limited,RH10 9PE,4866.6,1800000,\N,59454,\N,\N,"99999: Dormant Company, 73120: Media representation"
+3788,partnership,NR18 0AJ,4841.01,\N,3,370385,\N,240000,62020: Information technology consultancy activities
+3788,partnership,NR18 0AJ,4841.01,\N,1,408912,\N,80000,62020: Information technology consultancy activities
+40843,private_limited,IP31 3DJ,4787.25,100000,2,0,\N,160000,55201: Holiday centres and villages
+35732,non_profit,IP1 1UQ,4740,10800000,\N,\N,\N,\N,85590: Other education n.e.c.
+17251,private_limited,IP22 4GT,4658.37,6780000,27,1714003,\N,2160000,"46470: Wholesale of furniture, carpets and lighting equipment, 46499: Wholesale of household goods (other than musical instruments)"
+21770,private_limited,NR6 5DR,4612.2,\N,\N,\N,\N,\N,26110: Manufacture of electronic components
+25399,private_limited,NR8 6QW,4584,4440000,86,1820013,\N,6880000,86900: Other human health activities
+17282,private_limited,PE2 8AN,4556.67,1800000,\N,100,\N,\N,74901: Environmental consulting activities
+179402,private_limited,NR15 2BX,4539.06,510160,7,15777,\N,560000,66220: Activities of insurance agents and brokers
+34616,private_limited,PE29 7DA,4512,\N,110,839202,19409052,8800000,22190: Manufacture of other rubber products
+179741,private_limited,CM23 1JG,4478.48,\N,\N,\N,\N,\N,"95250: Repair of watches, clocks and jewellery"
+38878,private_limited,IP25 7SU,4448.04,1500000,14,410953,\N,1120000,32990: Other manufacturing not elsewhere classified
+24385,private_limited,NE12 8BT,4370,\N,46,391701,2663309,3680000,85600: Educational support activities
+28756,private_limited,IP11 7DU,4360,900000,24,88253,\N,1920000,69102: Solicitors
+100324,private_limited,W2 6LA,4355.24,\N,106,4548000,11232000,8480000,62020: Information technology consultancy activities
+842,private_limited,NR6 6BB,4353.46,2940000,65,10973,\N,5200000,69201: Accounting and auditing activities
+842,private_limited,NR6 6BB,4353.46,2940000,68,57987,\N,5440000,69201: Accounting and auditing activities
+3052,partnership,NR1 4DJ,4349.95,4920000,86,2065334,\N,6880000,"69200: Accounting, bookkeeping and auditing activities, tax consultancy"
+38837,private_limited,NR1 1DG,4320,\N,2,4029278,1951709,160000,86900: Other human health activities
+17620,private_limited,IP33 1XQ,4300,1320000,1,296103,\N,80000,69102: Solicitors
+1511,private_limited,NR30 1EQ,4283.12,1800000,67,1126614,\N,5360000,55100: Hotels and similar accommodation
+1511,private_limited,NR30 1EQ,4283.12,1800000,68,1191532,\N,5440000,55100: Hotels and similar accommodation
+133697,school,IP18 6SD,4163.87,2700000,\N,\N,\N,\N,"85100: Pre-primary education, 85310 : General secondary education, 85410: Post-secondary non-tertiary education, 85200: Primary education"
+2732,private_limited,NR3 2RY,4122,\N,117,9907096,13290322,9360000,64205: Activities of financial services holding companies
+1458,private_limited,NR18 0AT,4097.07,300000,2,15679,\N,160000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+48853,private_limited,CB4 0WS,4053.28,\N,1,59473,\N,80000,74100: Specialised design activities
+48853,private_limited,CB4 0WS,4053.28,\N,1,59274,\N,80000,74100: Specialised design activities
+17875,school,IP33 3YU,3994.66,\N,66,\N,5331748,5280000,85410: Post-secondary non-tertiary education
+199382,private_limited,NR3 2BT,3991.38,660000,5,94162,\N,400000,"33140: Repair of electrical equipment, 71122: Engineering related scientific and technical consulting activities, 71200: Technical testing and analysis"
+58271,private_limited,CB24 3BA,3948.76,\N,\N,\N,\N,\N,"62090: Other information technology service activities, 86900: Other human health activities"
+194019,private_limited,NR6 6AZ,3843.09,\N,6,102181,\N,480000,32990: Other manufacturing not elsewhere classified
+683,private_limited,IP24 2AP,3840.31,480000,10,226443,\N,800000,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+3228,private_limited,NR4 6EQ,3809.61,\N,30,1806313,\N,2400000,"47110: Retail sale in non-specialised stores with food, beverages or tobacco predominating, 10821: Manufacture of cocoa, and chocolate confectionery"
+198429,private_limited,,3807.09,\N,\N,\N,\N,\N,\N
+36598,private_limited,NR34 7TD,3796,720000,15,240254,\N,1200000,43991: Scaffold erection
+36598,private_limited,NR34 7TD,3796,720000,13,218724,\N,1040000,43991: Scaffold erection
+194405,private_limited,SW1E 5DH,3768,314386000,4545,530985000,314386000,363600000,"85100: Pre-primary education, 85200: Primary education, 85310: General secondary education"
+194405,private_limited,SW1E 5DH,3768,314386000,\N,\N,\N,\N,"85100: Pre-primary education, 85200: Primary education, 85310: General secondary education"
+1233,private_limited,NR7 8TL,3680.28,\N,33,18147041,6481700,2640000,"68209: Other letting and operating of own or leased real estate, 70100: Activities of head offices"
+1233,private_limited,NR7 8TL,3680.28,\N,\N,\N,\N,\N,"68209: Other letting and operating of own or leased real estate, 70100: Activities of head offices"
+9291,private_limited,NR30 3LA,3678,\N,\N,\N,\N,\N,18129: Printing not elsewhere classified
+197990,private_limited,IP1 2QA,3624.4,\N,3,20759,\N,240000,82990: Other business support service activities not elsewhere classified
+48328,private_limited,CM1 1JE,3600,\N,268,25363176,100422328,21440000,"78109: Other activities of employment placement agencies, 78200: Temporary employment agency activities"
+11363,school,NR32 4PZ,3582.84,\N,107,\N,8729280,8560000,85310 : General secondary education
+199537,private_limited,NR6 6AW,3573.02,420000,\N,35681,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+199537,private_limited,NR6 6AW,3573.02,420000,\N,\N,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+1562,private_limited,IP23 8JT,3525.33,\N,\N,34316,\N,\N,49410: Freight transport by road
+1562,private_limited,IP23 8JT,3525.33,\N,7,4928,\N,560000,49410: Freight transport by road
+3210,private_limited,IP26 5HX,3510.48,6595905,\N,\N,\N,\N,10920: Manufacture of prepared pet foods
+3210,private_limited,IP26 5HX,3510.48,6595905,30,219409,\N,2400000,10920: Manufacture of prepared pet foods
+95622,private_limited,IP25 6HW,3499.24,600000,8,250655,\N,640000,45112: Sale of used cars and light motor vehicles
+103364,school,BR1 2TW,3496,12000000,\N,\N,\N,\N,"85410: Post-secondary non-tertiary education, 85200: Primary education, 85310 : General secondary education"
+89445,private_limited,PA14 5XH,3485,\N,106,8255421,19377363,8480000,32500: Manufacture of medical and dental instruments and supplies
+35716,private_limited,NR18 9SB,3436.9,\N,\N,\N,\N,\N,29320: Manufacture of other parts and accessories for motor vehicles
+4694,private_limited,NR17 1AN,3408.66,\N,97,1939696,13304294,7760000,43110: Demolition
+197123,private_limited,E15 2JA,3398.4,\N,\N,\N,\N,\N,56290: Other food services
+441,private_limited,NR10 5NU,3394.15,300000,11,58094,\N,880000,43999: Other specialised construction activities n.e.c.
+17065,private_limited,NR3 2AW,3357.5,2100000,10,1162106,\N,800000,61900: Other telecommunications activities
+20365,private_limited,HG2 8PA,3344.13,\N,\N,\N,\N,\N,47749: Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c.
+3350,private_limited,NR13 6LH,3334.33,9180000,\N,\N,\N,\N,"32130: Manufacture of imitation jewellery and related articles, 47770: Retail sale of watches and jewellery in specialised stores, 47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)"
+3350,private_limited,NR13 6LH,3334.33,9180000,153,3266213,\N,12240000,"32130: Manufacture of imitation jewellery and related articles, 47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries), 47770: Retail sale of watches and jewellery in specialised stores"
+39362,private_limited,PE3 7PN,3320,3750000,38,2497551,\N,3040000,82990: Other business support service activities not elsewhere classified
+39362,private_limited,PE3 7PN,3320,3750000,38,2338713,\N,3040000,82990: Other business support service activities not elsewhere classified
+22487,private_limited,PE6 0GB,3250,660000,\N,247427,\N,\N,47910: Retail sale via mail order houses or via Internet
+22487,private_limited,PE6 0GB,3250,660000,8,247427,\N,640000,47910: Retail sale via mail order houses or via Internet
+1873,private_limited,NR5 0JH,3190.55,\N,74,16654525,35530384,5920000,"10730: Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+95554,private_limited,PE36 5HD,3118.84,\N,\N,\N,\N,\N,86900: Other human health activities
+27190,partnership,NR28 0DR,3075.48,600000,\N,\N,\N,\N,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+27190,partnership,NR28 0DR,3075.48,600000,\N,442437,\N,\N,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+7779,private_limited,IP22 2SP,3068.13,\N,106,19209000,22158731,8480000,43999: Other specialised construction activities n.e.c.
+197463,private_limited,LE15 7WD,3054.25,300000,\N,111447,\N,\N,"62020: Information technology consultancy activities, 62090: Other information technology service activities, 72190: Other research and experimental development on natural sciences and engineering"
+197463,private_limited,LE15 7WD,3054.25,300000,2,111447,\N,160000,"72190: Other research and experimental development on natural sciences and engineering, 62090: Other information technology service activities, 62020: Information technology consultancy activities"
+5469,private_limited,NR7 0WH,3051.64,\N,93,2665426,14527498,7440000,46310: Wholesale of fruit and vegetables
+18607,private_limited,NR14 8FB,3049.7,\N,42,5402000,13435000,3360000,28990: Manufacture of other special-purpose machinery
+193419,private_limited,E14 5LQ,3035.2,\N,109,3107638,18148718,8720000,58290: Other software publishing
+25489,private_limited,PE30 4HP,3034.3,660000,\N,\N,\N,\N,46180: Agents specialised in the sale of other particular products
+5410,private_limited,NR9 3NP,3013.48,6000000,\N,785778,\N,\N,"10821: Manufacture of cocoa, and chocolate confectionery"
+5410,private_limited,NR9 3NP,3013.48,6000000,\N,613938,\N,\N,"10821: Manufacture of cocoa, and chocolate confectionery"
+6331,private_limited,NR7 0WG,2991.58,2700000,37,669380,\N,2960000,66220: Activities of insurance agents and brokers
+198223,private_limited,EC1N 2HT,2961.66,48000000,\N,214850,\N,\N,77320: Renting and leasing of construction and civil engineering machinery and equipment
+198223,private_limited,EC1N 2HT,2961.66,48000000,\N,\N,\N,\N,77320: Renting and leasing of construction and civil engineering machinery and equipment
+198223,private_limited,EC1N 2HT,2961.66,48000000,1,0,\N,80000,77320: Renting and leasing of construction and civil engineering machinery and equipment
+67041,private_limited,SG8 6NA,2950,\N,18,2038828,\N,1440000,"47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries), 22290: Manufacture of other plastic products"
+67,private_limited,W6 0LJ,2898.2,\N,\N,\N,\N,\N,"74203: Film processing, 74209: Other photographic activities (not including portrait and other specialist photography and film processing)"
+202,private_limited,IP24 2RY,2854.44,\N,\N,\N,\N,\N,25990: Manufacture of other fabricated metal products
+199528,private_limited,SW18 1PE,2847.39,0,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+455,private_limited,SM1 9BH,2835.44,\N,2,273092,218104,160000,86900: Other human health activities
+79349,private_limited,NG9 6RZ,2817.1,\N,290,335000,25178000,23200000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+25378,private_limited,NR28 0BD,2743.51,\N,\N,\N,\N,\N,41201: Construction of commercial buildings
+46918,private_limited,CB23 3GY,2660,\N,295,13638899,24688019,23600000,"96010: Washing and (dry-)cleaning of textile and fur products, 68209: Other letting and operating of own or leased real estate"
+46918,private_limited,CB23 3GY,2660,\N,\N,\N,\N,\N,"96010: Washing and (dry-)cleaning of textile and fur products, 68209: Other letting and operating of own or leased real estate"
+81568,private_limited,NR3 2BT,2636.43,300000,5,99942,\N,400000,46650: Wholesale of office furniture
+10801,private_limited,NR3 2AT,2625.3,720000,19,796639,\N,1520000,31090: Manufacture of other furniture
+10801,private_limited,NR3 2AT,2625.3,720000,18,487267,\N,1440000,31090: Manufacture of other furniture
+2525,private_limited,IP24 1HG,2586.21,300000,3,183562,\N,240000,82990: Other business support service activities not elsewhere classified
+44336,private_limited,IP22 2HW,2524.22,300000,18,351785,\N,1440000,93199: Other sports activities (not including activities of racehorse owners)
+795,private_limited,CR3 6PH,2500.38,300000,2,4446812,\N,160000,68100: Buying and selling of own real estate
+899,private_limited,NR1 1UA,2495.33,1200000,\N,\N,\N,\N,99999: Dormant Company
+899,private_limited,NR1 1UA,2495.33,1200000,\N,100,\N,\N,99999: Dormant Company
+899,private_limited,NR1 1UA,2495.33,1200000,\N,100,\N,\N,99999: Dormant Company
+24340,private_limited,NR32 2TD,2488.68,\N,21,1400755,\N,1680000,82990: Other business support service activities not elsewhere classified
+49300,private_limited,MK44 1NP,2488.01,\N,13,0,\N,1040000,"28930: Manufacture of machinery for food, beverage and tobacco processing"
+47945,school,NR10 3PX,2462.46,\N,34,\N,1608310,2720000,85200: Primary education
+88,partnership,NR7 0LQ,2450.19,16200000,\N,1,\N,\N,"69102: Solicitors, 74990: Non-trading company"
+33637,private_limited,IP6 0AA,2436.2,3750000,\N,389688,\N,\N,79110: Travel agency activities
+33637,private_limited,IP6 0AA,2436.2,3750000,8,376733,\N,640000,79110: Travel agency activities
+30019,private_limited,SG18 8BN,2396.52,3750000,\N,3167631,\N,\N,20420: Manufacture of perfumes and toilet preparations
+4304,private_limited,NR31 0ND,2347.72,1260000,\N,\N,\N,\N,\N
+1871,private_limited,NR1 2AH,2310.13,\N,\N,\N,\N,\N,66220: Activities of insurance agents and brokers
+19939,school,NR7 0AJ,2292.1,\N,70,\N,2445612,5600000,"85200: Primary education, 85100: Pre-primary education"
+178145,private_limited,IP33 3PH,2277.81,1000000,\N,\N,\N,\N,61100: Wired telecommunications activities
+3204,school,NR25 7TN,2192.85,360000,\N,\N,\N,\N,85100: Pre-primary education
+31091,school,NR2 3QB,2141.84,\N,73,\N,2447417,5840000,\N
+378,private_limited,NR3 2AZ,2126.85,700000,14,2065390,\N,1120000,"22290: Manufacture of other plastic products, 46760: Wholesale of other intermediate products"
+19576,school,PE37 8HT,2111.01,\N,44,\N,1170109,3520000,85200: Primary education
+674,sole_trader,NR17 1LH,2102.01,120000,\N,\N,\N,\N,81300: Landscape service activities
+197417,private_limited,SN16 0JZ,2101.3,120000,\N,\N,\N,\N,41202: Construction of domestic buildings
+183378,private_limited,SW19 4DR,2100,\N,660,17709000,63736000,52800000,69102: Solicitors
+183378,private_limited,SW19 4DR,2100,\N,\N,\N,\N,\N,69102: Solicitors
+107,private_limited,CW6 0JQ,2067.78,600000,\N,\N,\N,\N,42910: Construction of water projects
+6199,private_limited,IP21 4HD,1987.04,1200000,\N,73694,\N,\N,47910: Retail sale via mail order houses or via Internet
+15944,private_limited,NR7 0RS,1958.69,\N,2,204919,\N,160000,43999: Other specialised construction activities n.e.c.
+15944,private_limited,NR7 0RS,1958.69,\N,3,162686,\N,240000,43999: Other specialised construction activities n.e.c.
+47326,school,IP4 1LT,1955,45000000,\N,\N,\N,\N,85420: Tertiary education
+81407,private_limited,DE1 2BU,1953,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+453,private_limited,DD1 5AJ,1952.55,2100000,\N,\N,\N,\N,69201: Accounting and auditing activities
+9796,private_limited,NR18 9JL,1940,240000,4,31848,\N,320000,18129: Printing not elsewhere classified
+9796,private_limited,NR18 9JL,1940,240000,\N,\N,\N,\N,18129: Printing not elsewhere classified
+80508,private_limited,NN17 4AX,1920,\N,56,3419000,4606000,4480000,94120: Activities of professional membership organisations
+80508,private_limited,NN17 4AX,1920,\N,\N,\N,\N,\N,94120: Activities of professional membership organisations
+47408,school,NR32 3EB,1913,\N,46,\N,2521027,3680000,"85200: Primary education, 85100: Pre-primary education"
+43889,private_limited,NR16 2HE,1908.49,\N,144,13410627,5044857,11520000,68209: Other letting and operating of own or leased real estate
+2344,non_profit,NR2 1SD,1878.19,1000000,\N,31300,\N,\N,"85200: Primary education, 68100: Buying and selling of own real estate"
+8088,private_limited,NR14 8RF,1857.49,120000,1,181343,\N,80000,68209: Other letting and operating of own or leased real estate
+179729,school,CB7 4EW,1840,19650000,\N,\N,\N,\N,85200: Primary education
+8330,private_limited,NR6 6XW,1756.08,1920000,\N,\N,\N,\N,45111: Sale of new cars and light motor vehicles
+35108,private_limited,CB24 9LF,1708.29,\N,\N,\N,\N,\N,"18130: Pre-press and pre-media services, 18203: Reproduction of computer media, 58141: Publishing of learned journals"
+315,private_limited,NR14 8HX,1645.25,300000,\N,\N,\N,\N,43210: Electrical installation
+315,private_limited,NR14 8HX,1645.25,300000,5,321542,\N,400000,43210: Electrical installation
+914,private_limited,NR18 9AU,1643.96,\N,63,2498000,6927000,5040000,"74909: Other professional, scientific and technical activities not elsewhere classified"
+199413,public_limited,MK45 5DT,1620,180000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+73,private_limited,NR17 1BX,1616.16,\N,2,297795,\N,160000,"01470: Raising of poultry, 35140: Trade of electricity"
+321,private_limited,NR9 3BW,1586.72,660000,11,59436,\N,880000,43210: Electrical installation
+321,private_limited,NR9 3BW,1586.72,660000,\N,\N,\N,\N,43210: Electrical installation
+23338,private_limited,CB5 8UZ,1478.22,2000000,7,307212,\N,560000,46760: Wholesale of other intermediate products
+7466,private_limited,NR32 2HD,1449.9,\N,28,3806000,12323000,2240000,"71200: Technical testing and analysis, 23610: Manufacture of concrete products for construction purposes, 71129: Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)"
+28450,private_limited,WF1 2TS,1417.64,\N,\N,\N,\N,\N,93130: Fitness facilities
+198421,private_limited,Redacted,1404,\N,\N,\N,\N,\N,5242: Retail sale of clothing
+4534,private_limited,NR3 1DD,1403.01,\N,4,68963,\N,320000,"66190: Activities auxiliary to financial intermediation not elsewhere classified, 66290: Other activities auxiliary to insurance and pension funding"
+536,private_limited,KT11 2LF,1386.61,600000,\N,\N,\N,\N,"58142: Publishing of consumer, business and professional journals and periodicals, 63120: Web portals"
+198407,private_limited,,1352.61,\N,\N,\N,\N,\N,\N
+4816,private_limited,NR5 9JB,1341.43,\N,\N,\N,\N,\N,"28290: Manufacture of other general-purpose machinery, 28990: Manufacture of other special-purpose machinery"
+199546,private_limited,CM22 7DG,1319.28,\N,\N,\N,\N,\N,64209: Activities of other holding companies n.e.c.
+99607,private_limited,NR4 6AP,1308.74,120000,\N,968951,\N,\N,68209: Other letting and operating of own or leased real estate
+9502,private_limited,NR9 5ES,1282.11,\N,5,0,\N,400000,81100: Combined facilities support activities
+95503,school,NR34 9PQ,1245.15,\N,19,\N,571939,1520000,85200: Primary education
+19045,school,NR8 6EF,1242.96,\N,49,\N,1757765,3920000,85200: Primary education
+15044,private_limited,NR1 1PG,1226.4,\N,6,73287,\N,480000,66190: Activities auxiliary to financial intermediation not elsewhere classified
+15044,private_limited,NR1 1PG,1226.4,\N,6,78758,\N,480000,66190: Activities auxiliary to financial intermediation not elsewhere classified
+15913,private_limited,NR30 5TA,1208.72,180000,2,104119,\N,160000,"77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+38177,private_limited,IP17 1LE,1200,3750000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+38177,private_limited,IP17 1LE,1200,3750000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+3488,private_limited,NR7 0LQ,1171.4,496250,3,45115,\N,240000,82110: Combined office administrative service activities
+3488,private_limited,NR7 0LQ,1171.4,496250,2,77287,\N,160000,82110: Combined office administrative service activities
+60701,private_limited,NR19 2AX,1139.92,1080000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+2595,private_limited,NR1 1BY,1138.05,7500000,6,5162204,\N,480000,69201: Accounting and auditing activities
+103,non_uk,"Box, Wiltshire",1136.83,100000,1,762,\N,80000,64999: Financial intermediation not elsewhere classified
+197807,private_limited,CM23 1JG,1130.25,2000000,14,2980077,\N,1120000,51102: Non-scheduled passenger air transport
+340,private_limited,NR34 9TL,1098.39,300000,\N,\N,\N,\N,68320: Management of real estate on a fee or contract basis
+340,private_limited,NR34 9TL,1098.39,300000,3,128533,\N,240000,68320: Management of real estate on a fee or contract basis
+18937,school,WD3 6ER,1089.26,\N,25,\N,671903,2000000,85200: Primary education
+7884,private_limited,NR31 0NT,1080,1750000,13,306230,\N,1040000,43999: Other specialised construction activities n.e.c.
+7884,private_limited,NR31 0NT,1080,1750000,\N,369146,\N,\N,43999: Other specialised construction activities n.e.c.
+197898,private_limited,NR32 2HD,1077.3,300000,\N,\N,\N,\N,45200: Maintenance and repair of motor vehicles
+31882,private_limited,NR1 3DD,1076.45,900000,6,2736,\N,480000,95120: Repair of communication equipment
+31882,private_limited,NR1 3DD,1076.45,900000,9,22107,\N,720000,95120: Repair of communication equipment
+1083,non_profit,NR17 2NT,1075.13,300000,\N,\N,\N,\N,72200: Research and experimental development on social sciences and humanities
+15341,private_limited,NR10 3EB,1074.87,1800000,\N,84003,\N,\N,43999: Other specialised construction activities n.e.c.
+199730,private_limited,NR17 1QD,1074.42,900000,\N,\N,\N,\N,\N
+4274,private_limited,NR1 1QL,1073.41,180000,10,49371,\N,800000,"87200: Residential care activities for learning disabilities, mental health and substance abuse"
+543,private_limited,PE31 7QN,1060.5,\N,7,762337,\N,560000,62012: Business and domestic software development
+10545,private_limited,NR9 4PZ,1045.3,300000,\N,633,\N,\N,43910: Roofing activities
+198522,private_limited,,1037.79,\N,\N,\N,\N,\N,\N
+197038,sole_trader,NR33 7AG,1023.5,60000,\N,\N,\N,\N,93130: Fitness facilities
+6556,private_limited,NR17 1QF,1016.9,600000,3,1155647,\N,240000,68209: Other letting and operating of own or leased real estate
+127844,school,NR35 1AY,978.31,\N,15,\N,628213,1200000,"85100: Pre-primary education, 85200: Primary education"
+2507,private_limited,NR18 0SW,962.65,900000,24,277070,\N,1920000,69109: Activities of patent and copyright agents; other legal activities n.e.c.
+2507,private_limited,NR18 0SW,962.65,900000,24,210225,\N,1920000,69109: Activities of patent and copyright agents; other legal activities n.e.c.
+194036,private_limited,NR18 0WZ,960,120000,\N,35201,\N,\N,41100: Development of building projects
+199645,private_limited,CB1 2LA,954.63,\N,7,83722,\N,560000,43210: Electrical installation
+197100,private_limited,CB25 9QE,953.42,300000,5,72209,\N,400000,69203: Tax consultancy
+197100,private_limited,CB25 9QE,953.42,300000,\N,\N,\N,\N,69203: Tax consultancy
+19504,school,NR29 5QN,931.79,\N,31,\N,726763,2480000,"85200: Primary education, 85100: Pre-primary education"
+199545,private_limited,NR15 1PN,915.31,840000,\N,\N,\N,\N,\N
+52715,private_limited,PE30 5DA,911.06,18540000,240,200300,\N,19200000,78109: Other activities of employment placement agencies
+52715,private_limited,PE30 5DA,911.06,18540000,240,200723,\N,19200000,78109: Other activities of employment placement agencies
+66696,private_limited,ST4 9DN,900,\N,4972,1038016000,458719000,397760000,"65120: Non-life insurance, 66190: Activities auxiliary to financial intermediation not elsewhere classified"
+16390,private_limited,GL54 2LF,897,1800000,\N,\N,\N,\N,32500: Manufacture of medical and dental instruments and supplies
+3366,private_limited,CM7 2PU,897,420000,7,452542,\N,560000,"47990: Other retail sale not in stores, stalls or markets"
+3366,private_limited,CM7 2PU,897,420000,\N,\N,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+36685,private_limited,NR33 7LX,890,60000,\N,\N,\N,\N,66220: Activities of insurance agents and brokers
+17692,private_limited,NR12 8QG,877.8,764976,11,486285,\N,880000,47770: Retail sale of watches and jewellery in specialised stores
+1444,private_limited,NR27 9LL,874,300000,5,269205,\N,400000,43999: Other specialised construction activities n.e.c.
+40382,private_limited,EN9 2HB,860.17,1750000,18,844322,\N,1440000,22290: Manufacture of other plastic products
+2222,sole_trader,NR9 4NT,849.95,120000,\N,\N,\N,\N,69201: Accounting and auditing activities
+81596,private_limited,W1S 4HH,848.49,\N,\N,\N,\N,\N,73120: Media representation
+653,private_limited,CB6 2UF,830,420000,4,2008,\N,320000,43390: Other building completion and finishing
+1208,partnership,NR15 2RR,824.55,60000,4,876899,\N,320000,68209: Other letting and operating of own or leased real estate
+1208,partnership,NR15 2RR,824.55,60000,\N,\N,\N,\N,68209: Other letting and operating of own or leased real estate
+74617,private_limited,NR7 0HS,817.23,3800000,25,1525814,\N,2000000,62090: Other information technology service activities
+650,private_limited,NR15 1HJ,811.9,360000,9,117288,\N,720000,81222: Specialised cleaning services
+4870,private_limited,NR28 0AJ,811.08,540000,\N,\N,\N,\N,33170: Repair and maintenance of other transport equipment
+3935,partnership,SW11 3LY,804.51,120000,\N,1,\N,\N,41100: Development of building projects
+197278,sole_trader,NR171TG,802.9,500000,\N,\N,\N,\N,43390: Other building completion and finishing
+5073,private_limited,NR16 2BS,797,60000,2,18755,\N,160000,"15120: Manufacture of luggage, handbags and the like, saddlery and harness"
+198823,sole_trader,NW6 2JS,796.6,60000,\N,\N,\N,\N,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+15662,private_limited,NR9 4PX,794.2,240000,4,15050,\N,320000,25990: Manufacture of other fabricated metal products
+2359,sole_trader,NR27 9JN,787.75,120000,\N,\N,\N,\N,"55300: Camping grounds, recreational vehicle parks and trailer parks, 55300: Recreational vehicle parks, trailer parks and camping grounds, 55900: Other accommodation, 55900: Other accommodation, 93290: Other amusement and recreation activities"
+2001,private_limited,NR17 1DS,786.74,9000000,39,2484146,\N,3120000,93120: Activities of sport clubs
+198707,private_limited,NR1 1bp,765,120000,\N,\N,\N,\N,41100: Development of building projects
+198798,private_limited,NR1 1RE,760.5,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+17401,private_limited,PE33 9RR,759,900000,16,2604782,\N,1280000,46770: Wholesale of waste and scrap
+5563,private_limited,NR7 0SL,751.32,0,6,933508,\N,480000,96090: Other service activities n.e.c.
+15518,private_limited,NR18 9SU,749.7,60000,3,5997,\N,240000,"56301: Licensed clubs, 56301: Licensed clubs"
+40,private_limited,WA1 1QL,741,1020000,14,2091766,\N,1120000,96090: Other service activities n.e.c.
+40,private_limited,WA1 1QL,741,1020000,13,2038950,\N,1040000,96090: Other service activities n.e.c.
+197103,private_limited,NR10 5RP,738.5,300000,\N,\N,\N,\N,"68100: Buying and selling of own real estate, 68209: Other letting and operating of own or leased real estate"
+96148,private_limited,CT1 3NF,736.88,\N,57,497633,14754213,4560000,10920: Manufacture of prepared pet foods
+5881,private_limited,NR2 4PE,731.9,1440000,33,809720,\N,2640000,56101: Licensed restaurants
+10229,private_limited,NR16 2QH,710.5,120000,2,9709,\N,160000,"82990: Other business support service activities not elsewhere classified, 49320: Taxi operation"
+52759,private_limited,NR9 3AP,710,300000,\N,21959,\N,\N,72190: Other research and experimental development on natural sciences and engineering
+9445,partnership,GU24 8LB,704.82,240000,\N,\N,\N,\N,86210: General medical practice activities
+48115,private_limited,TW18 4LP,686.75,240000,\N,\N,\N,\N,96090: Other service activities n.e.c.
+198352,private_limited,NR3 1RU,680,\N,\N,\N,\N,\N,"85590: Other education n.e.c., 94120: Activities of professional membership organisations"
+198352,private_limited,NR3 1RU,680,\N,13,1650189,1802083,1040000,"94120: Activities of professional membership organisations, 85590: Other education n.e.c."
+197146,private_limited,NE1 7RU,679.44,600000,10,\N,\N,800000,\N
+82123,private_limited,NG13 8BQ,662.93,\N,58000,20114794894,24606245484,4640000000,08990: Other mining and quarrying not elsewhere classified
+178385,private_limited,PR7 6TB,655.77,\N,56,17128948,11605690,4480000,"68209: Other letting and operating of own or leased real estate, 41201: Construction of commercial buildings"
+40844,private_limited,NR33 7NQ,650,540000,2,413,\N,160000,"68310: Other letting aReal estate agenciesnd operating of own or leased real estate, 68209: Other letting and operating of own or leased real estate, 68320: Management of real estate on a fee or contract basis"
+199296,private_limited,NR10 5FB,650,900000,\N,\N,\N,\N,"68100: Buying and selling of own real estate, 68209: Other letting and operating of own or leased real estate, 68320: Management of real estate on a fee or contract basis"
+199296,private_limited,NR10 5FB,650,900000,\N,100,\N,\N,"68100: Buying and selling of own real estate, 68209: Other letting and operating of own or leased real estate, 68320: Management of real estate on a fee or contract basis"
+32521,private_limited,NR34 7TH,650,1260000,\N,\N,\N,\N,43991: Scaffold erection
+32521,private_limited,NR34 7TH,650,1260000,21,138004,\N,1680000,43991: Scaffold erection
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,225979,\N,\N,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+162,sole_trader,NR27 9JN,646.3,300000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+162,sole_trader,NR27 9JN,646.3,300000,\N,1,\N,\N,70229: Management consultancy activities other than financial management
+3608,private_limited,PE37 8AE,646.3,1260000,20,3444223,\N,1600000,"01130: Growing of vegetables and melons, roots and tubers"
+55,private_limited,W6 9HA,646.3,300000,4,165333,\N,320000,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,340386,\N,\N,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,287207,\N,\N,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,287207,\N,\N,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,218083,\N,4341660,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,93613,\N,1852260,42990: Construction of other civil engineering projects not elsewhere classified
+55,private_limited,W6 9HA,646.3,300000,\N,218083,\N,4341660,42990: Construction of other civil engineering projects not elsewhere classified
+8775,private_limited,NR11 8QJ,624.59,4000000,4,84937,\N,320000,"47990: Other retail sale not in stores, stalls or markets"
+179521,private_limited,E10 7DE,621.44,1000000,\N,\N,\N,\N,"77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+16259,partnership,NR6 6AX,621,2880000,8,10255,\N,640000,85510: Sports and recreation education
+2938,private_limited,PE37 7XD,621,\N,\N,62693,\N,\N,"33200: Installation of industrial machinery and equipment, 33190: Repair of other equipment"
+48401,private_limited,WC1N 3AX,621,600000,19,406210,\N,1520000,"74990: Non-trading company, 69102: Solicitors"
+9471,private_limited,IP22 2LR,621,120000,2,22,\N,160000,47910: Retail sale via mail order houses or via Internet
+7370,private_limited,SW1Y 6JE,620.83,240000,\N,278727,\N,\N,41100: Development of building projects
+4632,private_limited,NR2 1JT,617.05,180000,2,40353,\N,160000,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+4632,private_limited,NR2 1JT,617.05,180000,2,31869,\N,160000,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+19042,school,IP24 1JW,591.52,\N,85,\N,3128385,6800000,85200: Primary education
+8142,private_limited,IP24 3AG,591.25,180000,\N,4127,\N,\N,62090: Other information technology service activities
+5842,private_limited,NR18 9QH,590,420000,\N,\N,\N,\N,43999: Other specialised construction activities n.e.c.
+6404,private_limited,LN11 0LQ,589.95,300000,\N,\N,\N,\N,43999: Other specialised construction activities n.e.c.
+5325,private_limited,NR2 2AD,583.65,21614656,706,21873145,26006267,56480000,87300: Residential care activities for the elderly and disabled
+435,private_limited,NR2 1DN,583.3,\N,23,7353928,80578916,1840000,46320: Wholesale of meat and meat products
+69338,private_limited,IP2 8NQ,577.3,180000,\N,88083,\N,\N,82990: Other business support service activities not elsewhere classified
+585,private_limited,IP31 3NN,573.79,300000,2,2564,\N,160000,41100: Development of building projects
+20,private_limited,CO5 9SH,573.3,\N,\N,1999,\N,\N,82990: Other business support service activities not elsewhere classified
+1127,private_limited,NR3 2BY,573.15,\N,\N,\N,\N,\N,46760: Wholesale of other intermediate products
+1127,private_limited,NR3 2BY,573.15,\N,3,11336,\N,240000,46760: Wholesale of other intermediate products
+9514,private_limited,SE24 0PB,569.96,\N,134,7151798,10664115,10720000,"58142: Publishing of consumer, business and professional journals and periodicals"
+4382,private_limited,NR18 0QJ,561.2,\N,11,726986,369873,880000,94910: Activities of religious organisations
+4382,private_limited,NR18 0QJ,561.2,\N,\N,\N,\N,\N,94910: Activities of religious organisations
+220,private_limited,NG11 6HH,559.3,360000,\N,\N,\N,\N,18129: Printing not elsewhere classified
+220,private_limited,NG11 6HH,559.3,360000,\N,24903,\N,\N,18129: Printing not elsewhere classified
+5551,private_limited,NR13 4DS,557,3780000,35,1453155,\N,2800000,43991: Scaffold erection
+97378,private_limited,IP26 4AF,552,180000,\N,\N,\N,\N,"95240: Repair of furniture and home furnishings, 32990: Other manufacturing not elsewhere classified"
+95350,private_limited,PE37 7HY,552,\N,93,1690226,13037909,7440000,49410: Freight transport by road
+1459,private_limited,IP21 4XQ,549.85,300000,7,970117,\N,560000,"77390: Renting and leasing of other machinery, equipment and tangible goods not elsewhere classified"
+1089,private_limited,NR18 9SB,545,300000,\N,\N,\N,\N,47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)
+1089,private_limited,NR18 9SB,545,300000,4,127349,\N,320000,47789: Other retail sale of new goods in specialised stores (other than by opticians or commercial art galleries)
+429,private_limited,NR9 4PY,542.77,\N,16,2918645,21667656,1280000,"46140: Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+22097,private_limited,NR7 9TP,538.19,11552312,437,5428457,14215137,34960000,86900: Other human health activities
+3616,sole_trader,NR1 3SP,519.9,180000,\N,\N,\N,\N,96020: Hairdressing and other beauty treatment
+182468,private_limited,BH17 7BX,514.21,\N,\N,\N,\N,\N,61100: Wired telecommunications activities
+1415,sole_trader,PE12 9LG,510.63,60000,\N,\N,\N,\N,33190: Repair of other equipment
+8542,private_limited,L40 8JY,505.81,600000,7,184261,\N,560000,82990: Other business support service activities not elsewhere classified
+8542,private_limited,L40 8JY,505.81,600000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+52,sole_trader,LN2 4SN,503.9,1800000,\N,\N,\N,\N,77291: Renting and leasing of media entertainment equipment
+581,private_limited,N10 2QE,481.85,\N,\N,\N,\N,\N,71111: Architectural activities
+48,private_limited,CO7 0SX,472.33,300000,\N,160090,\N,\N,58110: Book publishing
+13,private_limited,IP16 4JD,467.54,1620000,26,7115764,\N,2080000,"45400: Sale, maintenance and repair of motorcycles and related parts and accessories"
+17447,non_profit,CB6 3NX,462,1800000,\N,\N,\N,\N,85590: Other education n.e.c.
+225,private_limited,SW1H 9JJ,461.94,300000,3,185427,\N,240000,"47610: Retail sale of books in specialised stores, 58110: Book publishing"
+225,private_limited,SW1H 9JJ,461.94,300000,\N,\N,\N,\N,"47610: Retail sale of books in specialised stores, 58110: Book publishing"
+79,private_limited,SA9 1LF,456.55,1020000,9,178274,\N,720000,"46690: Wholesale of other machinery and equipment, 41201: Construction of commercial buildings"
+47291,private_limited,NR30 4AF,447.19,240000,1,27351,\N,80000,43999: Other specialised construction activities n.e.c.
+26227,private_limited,NR18 9HZ,441.6,120000,\N,24251,\N,\N,62020: Information technology consultancy activities
+36784,private_limited,NR33 0TQ,441.6,1,3,1697,\N,240000,66220: Activities of insurance agents and brokers
+501,private_limited,IP25 6JU,439.3,660000,19,1374905,\N,1520000,41201: Construction of commercial buildings
+199519,sole_trader,SS7 3HR,438.54,60000,1,6511,\N,80000,64999: Financial intermediation not elsewhere classified
+199519,sole_trader,SS7 3HR,438.54,60000,\N,\N,\N,\N,64999: Financial intermediation not elsewhere classified
+789,private_limited,PE3 9RE,438.45,\N,10,70056,\N,800000,"47210: Retail sale of fruit and vegetables in specialised stores, 56210: Event catering activities"
+4934,private_limited,NR3 2BN,436.1,300000,13,148587,\N,1040000,43320: Joinery installation
+2986,private_limited,NR2 1DN,427.2,60000,\N,\N,\N,\N,"78300: Other human resources provision, 85600: Educational support activities"
+112,private_limited,WR8 9DE,426.51,\N,6,719986,1016589,480000,"46420: Wholesale of clothing and footwear, 46480: Wholesale of watches and jewellery, 47710: Retail sale of clothing in specialised stores, 47770: Retail sale of watches and jewellery in specialised stores"
+18476,private_limited,PE31 6BU,424.87,60000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+392,private_limited,NR1 1NS,423.47,250000,\N,\N,\N,\N,45190: Sale of other motor vehicles
+95410,school,NR8 5AG,418.3,\N,66,\N,1791179,5280000,"85200: Primary education, 85100: Pre-primary education"
+305,sole_trader,CO10 8NS,418.08,120000,\N,\N,\N,\N,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+1515,private_limited,NR20 5RW,412.96,360000,\N,74783,\N,\N,45200: Maintenance and repair of motor vehicles
+1515,private_limited,NR20 5RW,412.96,360000,2,52654,\N,160000,45200: Maintenance and repair of motor vehicles
+197353,school,CO3 3RB,408,4380000,\N,\N,\N,\N,\N
+1670,private_limited,NR17 2QZ,406.33,1740000,29,4376049,\N,2320000,"22220: Manufacture of plastic packing goods, 24420: Aluminium production"
+198770,private_limited,L1 0BW,403.77,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+193868,private_limited,NR19 1DR,403.68,\N,51,150482,\N,4080000,96090: Other service activities n.e.c.
+4069,sole_trader,IP22 4HG,403.65,240000,\N,\N,\N,\N,5010: Sale of motor vehicles
+227,private_limited,IP17 3BP,402.5,3750000,23,2200344,\N,1840000,42910: Construction of water projects
+227,private_limited,IP17 3BP,402.5,3750000,\N,2461482,\N,\N,42910: Construction of water projects
+200269,sole_trader,GL20 6DA,400,60000,\N,\N,\N,\N,\N
+10548,private_limited,IP25 6SD,388.4,60000,1,83248,\N,80000,82990: Other business support service activities not elsewhere classified
+193411,private_limited,NR9 5PH,381.71,\N,31,4060455,\N,2480000,43210: Electrical installation
+1595,sole_trader,NR15 1HR,379.65,180000,\N,\N,\N,\N,46360: Wholesale of sugar and chocolate and sugar confectionery
+3440,private_limited,NR4 7LD,370.3,600000,22,287345,\N,1760000,"56101: Licensed restaurants, 56302: Public houses and bars"
+230,private_limited,GU24 8LB,365.7,120000,\N,17703,\N,\N,82990: Other business support service activities not elsewhere classified
+230,private_limited,GU24 8LB,365.7,120000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+1536,private_limited,NR35 2RA,362.1,300000,\N,\N,\N,\N,68209: Other letting and operating of own or leased real estate
+5322,private_limited,NR2 2AD,360.77,\N,35,3466981,1258094,2800000,87300: Residential care activities for the elderly and disabled
+349,private_limited,PE12 9LQ,360.34,120000,1,134068,\N,80000,43320: Joinery installation
+100031,private_limited,RH20 1AS,360,\N,\N,\N,\N,\N,88990: Other social work activities without accommodation n.e.c.
+367,private_limited,NR3 1UB,351.9,1800000,\N,\N,\N,\N,69102: Solicitors
+854,private_limited,EN2 9BP,351.6,360000,\N,77871,\N,\N,74990: Non-trading company
+48835,private_limited,PO20 2EB,350.95,120000,5,72787,\N,400000,41100: Development of building projects
+48835,private_limited,PO20 2EB,350.95,120000,7,27315,\N,560000,41100: Development of building projects
+194260,private_limited,NR10 5FB,350,1260000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+194260,private_limited,NR10 5FB,350,1260000,21,402262,\N,1680000,82990: Other business support service activities not elsewhere classified
+59,sole_trader,IP31 3QJ,345.3,60000,\N,1,\N,\N,82990: Other business support service activities not elsewhere classified
+963,private_limited,ME1 3QX,345,4880000,\N,\N,\N,\N,"46520: Wholesale of electronic and telecommunications equipment and parts, 46660: Wholesale of other office machinery and equipment"
+1346,private_limited,NR3 1RT,345,1890740,\N,\N,\N,\N,69201: Accounting and auditing activities
+95595,private_limited,CB4 0WS,343.75,420000,\N,\N,\N,\N,71122: Engineering related scientific and technical consulting activities
+56994,private_limited,NR30 2AJ,341.67,\N,5,465911,\N,400000,10822: Manufacture of sugar confectionery
+7923,private_limited,NR31 9HR,341.03,\N,\N,\N,\N,\N,61900: Other telecommunications activities
+1581,sole_trader,CB8 8UY,340.9,60000,\N,\N,\N,\N,"56210: Event catering activities, 46439: Wholesale of radio and television goods and of electrical household appliances"
+197604,private_limited,IP22 4ZB,340,120000,\N,\N,\N,\N,96090: Other service activities n.e.c.
+199212,private_limited,SO51 9ZH,340,\N,103,216814,4342100,8240000,"85200: Primary education, 85100: Pre-primary education"
+199212,private_limited,SO51 9ZH,340,\N,\N,\N,\N,\N,"85100: Pre-primary education, 85200: Primary education"
+48789,private_limited,KT19 7EY,331.74,13860000,\N,\N,\N,\N,68310: Other letting aReal estate agenciesnd operating of own or leased real estate
+98,private_limited,NR35 1EF,330.05,1800000,14,451100,\N,1120000,58110: Book publishing
+4051,private_limited,SW11 2QN,330.05,\N,\N,\N,\N,\N,71111: Architectural activities
+17794,private_limited,CO6 1TU,326.6,0,\N,12489,\N,\N,47290: Other retail sale of food in specialised stores
+66,private_limited,BD20 5DN,326.6,120000,2,36353,\N,160000,06200: Extraction of natural gas
+41,private_limited,WV13 3YA,324.94,\N,3,527269,\N,240000,77210: Renting and leasing of recreational and sports goods
+822,private_limited,TN22 3EL,318.19,0,3,1213060,\N,240000,62090: Other information technology service activities
+512,sole_trader,RG9 2AL,317.6,60000,\N,\N,\N,\N,69102: Solicitors
+437,private_limited,NR2 4AP,317.6,\N,2,0,\N,160000,71129: Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)
+776,sole_trader,DN20 8RR,311.05,120000,\N,\N,\N,\N,96020: Hairdressing and other beauty treatment
+199190,sole_trader,,309.79,60000,\N,\N,\N,\N,\N
+9339,government,NR18 0AD,305.19,720000,\N,\N,\N,\N,84110: General public administration activities
+18604,private_limited,SS15 6DU,301.3,120000,\N,\N,\N,\N,45112: Sale of used cars and light motor vehicles
+3122,private_limited,CO12 5AE,301.3,300000,2,89516,\N,160000,52230: Service activities incidental to air transportation
+26065,private_limited,DE74 2YX,301.3,300000,\N,485199,\N,\N,94990: Activities of other membership organisations
+3122,private_limited,CO12 5AE,301.3,300000,\N,\N,\N,\N,52230: Service activities incidental to air transportation
+3889,sole_trader,IP22 2DR,301.3,60000,\N,\N,\N,\N,"87200: Residential care activities for learning disabilities, mental health and substance abuse, 46439: Wholesale of radio and television goods and of electrical household appliances"
+1073,sole_trader,IP26 5HQ,301.3,480000,\N,\N,\N,\N,55100: Hotels and similar accommodation
+355,private_limited,NR17 2QZ,301.3,120000,\N,44818,\N,\N,"46730: Wholesale of wood, construction materials and sanitary equipment"
+92,sole_trader,CO5 9SH,301.3,120000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+1389,government,NR18 0AD,301.3,180000,\N,\N,\N,\N,84110: General public administration activities
+1512,sole_trader,NR14 8ET,301.3,120000,\N,\N,\N,\N,43390: Other building completion and finishing
+355,private_limited,NR17 2QZ,301.3,120000,\N,\N,\N,\N,"46730: Wholesale of wood, construction materials and sanitary equipment"
+18455,private_limited,,301.3,60000,\N,\N,\N,\N,"91010: Library and archive activities, 46439: Wholesale of radio and television goods and of electrical household appliances"
+3903,private_limited,GL1 5AJ,301.3,100000,37,599502,\N,2960000,87300: Residential care activities for the elderly and disabled
+3903,private_limited,GL1 5AJ,301.3,100000,\N,689674,\N,\N,87300: Residential care activities for the elderly and disabled
+13336,private_limited,EC1A 4NP,300,\N,\N,\N,\N,\N,63990: Other information service activities n.e.c.
+34649,sole_trader,NR35 2TQ,297.2,60000,\N,\N,\N,\N,\N
+7926,private_limited,NR31 9BE,296.64,\N,245,9540774,22584114,19600000,94110: Activities of business and employers membership organisations
+3977,private_limited,CM9 6AN,293.4,300000,2,1281,\N,160000,74901: Environmental consulting activities
+3977,private_limited,CM9 6AN,293.4,300000,2,13633,\N,160000,74901: Environmental consulting activities
+1019,private_limited,IP25 6PP,292.3,\N,\N,\N,\N,\N,99999: Dormant Company
+1439,private_limited,NR6 5NQ,291.6,\N,\N,\N,\N,\N,45200: Maintenance and repair of motor vehicles
+36548,private_limited,PE15 0WJ,285.12,60000,\N,2385,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+797,private_limited,WC2B 5QR,281.57,0,\N,\N,\N,\N,58190: Other publishing activities
+797,private_limited,WC2B 5QR,281.57,0,\N,\N,\N,\N,58190: Other publishing activities
+3985,sole_trader,CW7 4HA,276,60000,\N,\N,\N,\N,42110: Construction of roads and motorways
+1199,private_limited,CM24 8SN,276,3000000,\N,\N,\N,\N,"46439: Wholesale of radio and television goods and of electrical household appliances, 20302: Manufacture of printing ink"
+912,private_limited,NR10 4FG,276,600000,6,22160,\N,480000,93120: Activities of sport clubs
+912,private_limited,NR10 4FG,276,600000,5,12643,\N,400000,93120: Activities of sport clubs
+2505,private_limited,IP1 1HQ,268.36,2700000,\N,\N,\N,\N,70100: Activities of head offices
+2505,private_limited,IP1 1HQ,268.36,2700000,45,1726170,\N,3600000,70100: Activities of head offices
+178,private_limited,NW11 8DE,266.8,240000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+178,private_limited,NW11 8DE,266.8,240000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+3827,private_limited,NR17 1LE,266.35,900000,6,171096,\N,480000,56302: Public houses and bars
+3939,private_limited,IP20 9FB,257.6,120000,\N,\N,\N,\N,95220: Repair of household appliances and home and garden equipment
+3742,private_limited,NR18 0RD,250,3120000,\N,\N,\N,\N,25110: Manufacture of metal structures and parts of structures
+87564,private_limited,NR25 6HP,248.62,\N,\N,\N,\N,\N,55100: Hotels and similar accommodation
+811,private_limited,HP5 3EF,245.84,120000,\N,23620,\N,\N,62012: Business and domestic software development
+811,private_limited,HP5 3EF,245.84,120000,\N,\N,\N,\N,62012: Business and domestic software development
+97620,private_limited,NR1 1RE,245.76,\N,\N,\N,\N,\N,\N
+1200,private_limited,RG20 7BN,245.29,120000,\N,\N,\N,\N,"41100: Development of building projects, 62020: Information technology consultancy activities"
+1200,private_limited,RG20 7BN,245.29,120000,2,145263,\N,160000,"41100: Development of building projects, 62020: Information technology consultancy activities"
+9354,sole_trader,NR28 0UX,243.75,60000,\N,\N,\N,\N,70220: Business and other management consultancy activities
+7454,private_limited,NR18 0QJ,241.5,\N,11,726986,369873,880000,94910: Activities of religious organisations
+1605,private_limited,NR4 6FF,238.7,\N,6,159755,\N,480000,"47990: Other retail sale not in stores, stalls or markets"
+1123,sole_trader,IP25 6QD,232.3,180000,\N,\N,\N,\N,56302: Public houses and bars
+4546,private_limited,IP24 1NH,221.15,\N,1,12541,\N,80000,93199: Other sports activities (not including activities of racehorse owners)
+3340,private_limited,PE31 7PL,217.41,\N,2,5543,\N,160000,43910: Roofing activities
+199991,private_limited,NR2 1DP,214.98,180000,\N,\N,\N,\N,66220: Activities of insurance agents and brokers
+43195,private_limited,PE31 7QH,207,900000,3,98782,\N,240000,82990: Other business support service activities not elsewhere classified
+33991,private_limited,NR4 7UH,207,\N,5,5064834,\N,400000,82990: Other business support service activities not elsewhere classified
+48839,private_limited,NR14 7PX,207,180000,\N,117348,\N,\N,"43220: Plumbing, heat and air-conditioning installation"
+198771,private_limited,L1 0BW,205.35,\N,\N,\N,\N,\N,86900: Other human health activities
+946,private_limited,NR17 2AT,204.9,300000,\N,\N,\N,\N,69202: Bookkeeping activities
+8836,private_limited,NR25 6TS,202.84,300000,\N,\N,\N,\N,64209: Activities of other holding companies n.e.c.
+198775,private_limited,L1 0BW,202.33,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+6229,private_limited,EH23 4NX,198.41,60000,1,24743,\N,80000,46190: Agents involved in the sale of a variety of goods
+6229,private_limited,EH23 4NX,198.41,60000,\N,23478,\N,\N,46190: Agents involved in the sale of a variety of goods
+269,private_limited,CO3 3LD,197.8,\N,\N,\N,\N,\N,"68310: Other letting aReal estate agenciesnd operating of own or leased real estate, 68320: Management of real estate on a fee or contract basis"
+199,private_limited,EH23 4NX,196.75,60000,\N,\N,\N,\N,"90020: Support activities to performing arts, 90040: Operation of arts facilities"
+199,private_limited,EH23 4NX,196.75,60000,6,366167,\N,480000,"90020: Support activities to performing arts, 90040: Operation of arts facilities"
+4129,private_limited,NR18 0RR,183.7,1260000,\N,24978,\N,\N,68100: Buying and selling of own real estate
+243,private_limited,NR33 8EG,181.4,180000,\N,\N,\N,\N,71129: Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)
+243,private_limited,NR33 8EG,181.4,180000,2,20657,\N,160000,71129: Other engineering activities (not including engineering design for industrial process and production or engineering related scientific and technical consulting activities)
+198772,private_limited,L1 0BW,177.06,\N,1,0,\N,80000,82990: Other business support service activities not elsewhere classified
+199530,private_limited,,176,\N,\N,\N,\N,\N,66290: Other activities auxiliary to insurance and pension funding
+193,private_limited,BR1 2TE,174.9,60000,\N,500,\N,\N,"70229: Management consultancy activities other than financial management, 64999: Financial intermediation not elsewhere classified"
+1631,sole_trader,IP25 6GY,174.9,60000,\N,\N,\N,\N,74200: Photographic activities
+193,private_limited,BR1 2TE,174.9,60000,\N,\N,\N,\N,"70229: Management consultancy activities other than financial management, 64999: Financial intermediation not elsewhere classified"
+268,private_limited,TR26 2JJ,174.36,180000,\N,\N,\N,\N,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+268,private_limited,TR26 2JJ,174.36,180000,5,540674,\N,400000,"47760: Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores"
+4976,private_limited,NR14 8PA,173.62,240000,\N,\N,\N,\N,43210: Electrical installation
+198774,private_limited,L1 0BW,171.74,1800000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+1260,private_limited,TW18 5AR,171.45,300000,\N,\N,\N,\N,99999: Dormant Company
+820,sole_trader,SW15 2NU,169.81,60000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+198769,private_limited,L1 0BW,163.73,\N,\N,\N,\N,\N,62012: Business and domestic software development
+197359,private_limited,GL8 8HH,162.93,60000,\N,\N,\N,\N,\N
+198773,private_limited,L1 0BW,162.43,\N,\N,\N,\N,\N,62011: Ready-made interactive leisure and entertainment software development
+70143,non_profit,NR7 0LB,160.08,\N,\N,\N,\N,\N,94990: Activities of other membership organisations
+8037,sole_trader,NR35 1DD,158.55,180000,\N,\N,\N,\N,41202: Construction of domestic buildings
+7848,private_limited,NR31 7BP,153.58,420000,9,71203,\N,720000,88990: Other social work activities without accommodation n.e.c.
+4590,private_limited,SW6 6JY,148.32,300000,\N,\N,\N,\N,"85510: Sports and recreation education, 85200: Primary education"
+838,private_limited,CB25 9AU,148.32,480000,\N,\N,\N,\N,98000: Residents property management
+17146,private_limited,NR14 8GG,147.77,\N,\N,\N,\N,\N,"47750: Retail sale of cosmetic and toilet articles in specialised stores, 47990: Other retail sale not in stores, stalls or markets"
+922,private_limited,NR17 2AH,146.15,300000,\N,\N,\N,\N,99999: Dormant Company
+1373,private_limited,BS39 5BW,146.15,\N,\N,143332,\N,\N,70229: Management consultancy activities other than financial management
+1373,private_limited,BS39 5BW,146.15,\N,2,202224,\N,160000,70229: Management consultancy activities other than financial management
+198767,private_limited,L1 0BW,145.14,\N,\N,\N,\N,\N,"26600: Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+11312,private_limited,NR35 2RU,142.4,1800000,\N,273997,1497658,10064960,"64204: Activities of distribution holding companies, 70100: Activities of head offices"
+124,private_limited,CW2 6QH,140.99,\N,1,40719,\N,80000,"59111: Motion picture production activities, 59120: Motion picture, video and television programme post-production activities"
+198808,private_limited,NR1 1RE,140.4,\N,\N,\N,\N,\N,59113: Television programme production activities
+11098,private_limited,NR10 5NU,140.21,300000,2,1485773,\N,160000,43991: Scaffold erection
+12,private_limited,IP28 8NY,139.48,240000,3,40035,\N,240000,"41202: Construction of domestic buildings, 41100: Development of building projects"
+1639,private_limited,NR12 8UT,138.46,1200000,\N,\N,\N,\N,32990: Other manufacturing not elsewhere classified
+3919,sole_trader,IP21 4XY,132.4,60000,\N,\N,\N,\N,"46439: Wholesale of radio and television goods and of electrical household appliances, 01430: Raising of horses and other equines, 93191: Activities of racehorse owners"
+199680,private_limited,NG3 7DQ,132,0,\N,\N,\N,\N,"41100: Development of building projects, 81210: General cleaning of buildings"
+214,sole_trader,EH12 6BX,129.88,60000,\N,\N,\N,\N,"71111: Architectural activities, 41100: Development of building projects"
+21829,sole_trader,NR19 1FH,123.6,60000,\N,\N,\N,\N,"66220: Activities of insurance agents and brokers, 66190: Activities auxiliary to financial intermediation not elsewhere classified"
+843,sole_trader,,123.6,60000,\N,\N,\N,\N,62020: Information technology consultancy activities
+31238,private_limited,NR17 1AE,120.56,1000000,1,253842,\N,80000,"01110: Growing of cereals (except rice), leguminous crops and oil seeds"
+179773,private_limited,CB5 8DT,116,1800000,44,956792,\N,3520000,"72110: Research and experimental development on biotechnology, 72190: Other research and experimental development on natural sciences and engineering"
+179773,private_limited,CB5 8DT,116,1800000,44,1155580,\N,3520000,"72110: Research and experimental development on biotechnology, 72190: Other research and experimental development on natural sciences and engineering"
+9382,private_limited,NR34 8TS,113.52,\N,841,57412000,101485000,67280000,22220: Manufacture of plastic packing goods
+788,private_limited,N3 1XW,111.58,300000,\N,55819,\N,\N,93120: Activities of sport clubs
+1538,private_limited,NR4 7NN,109.9,300000,\N,4667,\N,\N,43320: Joinery installation
+1162,sole_trader,CB8 8GP,109.3,60000,\N,\N,\N,\N,"46610: Wholesale of agricultural machinery, equipment and supplies"
+3794,private_limited,CO5 9TU,108.1,2400000,28,50173,\N,2240000,56302: Public houses and bars
+86,private_limited,WR13 6SU,107.14,120000,2,11466,\N,160000,29320: Manufacture of other parts and accessories for motor vehicles
+5459,sole_trader,DN20 8RR,106.15,60000,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+1558,private_limited,NR17 1QF,104.65,180000,\N,\N,\N,\N,"46439: Wholesale of radio and television goods and of electrical household appliances, 01500: Mixed farming"
+231,private_limited,BS22 9RR,104.5,1380000,\N,\N,\N,\N,86900: Other human health activities
+231,private_limited,BS22 9RR,104.5,1380000,20,224856,\N,1600000,86900: Other human health activities
+199418,private_limited,,104.13,\N,2,27559,\N,160000,56290: Other food services
+199418,private_limited,,104.13,\N,\N,10,\N,\N,56290: Other food services
+932,private_limited,IP21 4XQ,101.85,4440000,71,514345,\N,5680000,43999: Other specialised construction activities n.e.c.
+161,private_limited,BD20 9LS,99.6,60000,\N,\N,\N,\N,59113: Television programme production activities
+197685,private_limited,NR1 3EY,98.96,\N,4,110558,\N,320000,43991: Scaffold erection
+217,private_limited,IP29 5SB,98.9,\N,2,4998,\N,160000,18129: Printing not elsewhere classified
+217,private_limited,IP29 5SB,98.9,\N,2,12533,\N,160000,18129: Printing not elsewhere classified
+458,private_limited,MK3 5LH,98.35,60000,1,6642,\N,80000,70229: Management consultancy activities other than financial management
+1065,private_limited,IP17 3BP,93.65,180000,3,14532,\N,240000,55209: Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels)
+1065,private_limited,IP17 3BP,93.65,180000,3,5631,\N,240000,55209: Other holiday and other short-stay accommodation (not including holiday centres and villages or youth hostels)
+1230,private_limited,NR18 0WY,91.8,3750000,\N,\N,\N,\N,45112: Sale of used cars and light motor vehicles
+1230,private_limited,NR18 0WY,91.8,3750000,27,4481894,\N,2160000,45112: Sale of used cars and light motor vehicles
+1236,private_limited,CV12 9NZ,91.5,60000,\N,\N,\N,\N,"70229: Management consultancy activities other than financial management, 85310: General secondary education"
+1236,private_limited,CV12 9NZ,91.5,60000,1,35118,\N,80000,"70229: Management consultancy activities other than financial management, 85310: General secondary education"
+891,private_limited,CB24 5NE,85.84,684000,1,682742,\N,80000,70229: Management consultancy activities other than financial management
+71,private_limited,NW11 8DE,83.2,\N,\N,\N,\N,\N,\N
+7932,private_limited,NR31 6RL,81.16,\N,12,3558130,\N,960000,78200: Temporary employment agency activities
+591,school,N10 3JA,76.27,\N,27,\N,1456776,2160000,85200: Primary education
+4111,private_limited,EX23 8AY,76.27,180000,\N,926,\N,\N,68209: Other letting and operating of own or leased real estate
+481,private_limited,NR13 5QN,75.9,\N,\N,107972,\N,\N,68209: Other letting and operating of own or leased real estate
+198806,private_limited,W1B 4ND,74.48,\N,\N,\N,\N,\N,41202: Construction of domestic buildings
+38836,private_limited,TW17 9LD,72.6,60000,\N,\N,\N,\N,70229: Management consultancy activities other than financial management
+1279,private_limited,NR18 0YE,71.15,\N,1,10155,\N,80000,43210: Electrical installation
+1279,private_limited,NR18 0YE,71.15,\N,\N,\N,\N,\N,43210: Electrical installation
+461,private_limited,GU24 9PF,71.09,60000,\N,\N,\N,\N,47710: Retail sale of clothing in specialised stores
+9147,private_limited,NR7 0HS,67.74,9000000,\N,\N,\N,\N,61900: Other telecommunications activities
+58310,private_limited,CB25 0LQ,65.92,128000000,\N,\N,\N,\N,64201: Activities of agricultural holding companies
+100,sole_trader,OX2 8PA,63.5,60000,\N,\N,\N,\N,74100: Specialised design activities
+18496,non_profit,NR9 5ES,59.54,5400000,\N,\N,\N,\N,74990: Non-trading company
+1494,private_limited,NR28 0HD,59.34,\N,\N,718970,\N,\N,55100: Hotels and similar accommodation
+671,private_limited,IP33 1HE,57.5,\N,44,38633,646250,3520000,"88100: Social work activities without accommodation for the elderly and disabled, 88990: Other social work activities without accommodation n.e.c."
+677,private_limited,NR12 7BY,57.5,180000,\N,\N,\N,\N,93290: Other amusement and recreation activities
+38768,sole_trader,PE37 8HT,54.33,60000,\N,\N,\N,\N,"90030: Artistic creation, 46439: Wholesale of radio and television goods and of electrical household appliances"
+11039,private_limited,NR16 2PX,54.05,300000,\N,\N,\N,\N,"70229: Management consultancy activities other than financial management, 82990: Other business support service activities not elsewhere classified"
+3,sole_trader,N10 2QE,54.05,120000,2,37,\N,160000,71111: Architectural activities
+8073,private_limited,NR31 0NQ,50.6,300000,\N,4986024,\N,\N,82990: Other business support service activities not elsewhere classified
+346,private_limited,TN13 1XR,50.6,360000,\N,593,\N,\N,86900: Other human health activities
+4067,sole_trader,NR34 9AB,50.6,0,\N,\N,\N,\N,"47640: Retail sale of sports goods, fishing gear, camping goods, boats and bicycles"
+4117,private_limited,IP22 2JN,50.6,\N,\N,1107466,\N,\N,56302: Public houses and bars
+57477,partnership,EC2V 7BG,46,\N,35,963000,3471000,2800000,"7412: Accounting, auditing; tax consult"
+200272,private_limited,NR9 4EQ,43.75,\N,\N,\N,\N,\N,\N
+1181,private_limited,KA6 5HW,41.99,\N,\N,\N,\N,\N,"75000: Veterinary activities, 72190: Other research and experimental development on natural sciences and engineering, 85310: General secondary education"
+1181,private_limited,KA6 5HW,41.99,\N,1228,23415000,91690000,98240000,"75000: Veterinary activities, 72190: Other research and experimental development on natural sciences and engineering, 85310: General secondary education"
+4400,private_limited,IP1 5AP,39.97,\N,\N,\N,\N,\N,"47599: Retail sale of furniture, lighting equipment and other household articles (other than musical instruments), in specialised stores"
+1517,private_limited,NR17 1DP,39.6,120000,2,2092767,\N,160000,"45112: Sale of used cars and light motor vehicles, 45200: Maintenance and repair of motor vehicles, 77320: Renting and leasing of construction and civil engineering machinery and equipment"
+3571,private_limited,IP22 5UT,39.6,600000,7,29852,\N,560000,82990: Other business support service activities not elsewhere classified
+80,private_limited,HP2 7TG,36.8,\N,\N,\N,\N,\N,82990: Other business support service activities not elsewhere classified
+3874,private_limited,NN7 2QF,36.8,\N,10,1685781,\N,800000,46900: Non-specialised wholesale trade
+3874,private_limited,NN7 2QF,36.8,\N,12,1845743,\N,960000,46900: Non-specialised wholesale trade
+1563,sole_trader,NR1 2AN,34.5,60000,\N,\N,\N,\N,70220: Business and other management consultancy activities
+173,private_limited,SL5 7QP,28.75,120000,\N,\N,\N,\N,90030: Artistic creation
+30793,private_limited,NR9 4JB,28.75,600000,\N,\N,\N,\N,85100: Pre-primary education
+173,private_limited,SL5 7QP,28.75,120000,\N,5435,\N,\N,90030: Artistic creation
+4097,government,AL7 1LA,28.75,900000,\N,100,\N,\N,84110: General public administration activities
+223,sole_trader,NR17 2AQ,25.3,180000,\N,\N,\N,\N,45200: Maintenance and repair of motor vehicles
+4009,private_limited,NR5 8BF,25.3,180000,3,838989,\N,240000,"65110: Life insurance, 82990: Other business support service activities not elsewhere classified, 65202: Non-life reinsurance, 65120: Non-life insurance"
+5656,sole_trader,WR14 4AA,25.3,120000,\N,\N,\N,\N,"45112: Sale of used cars and light motor vehicles, 46439: Wholesale of radio and television goods and of electrical household appliances"
+10284,private_limited,NR4 7HW,25.3,60000,1,1802,\N,80000,49410: Freight transport by road
+894,private_limited,IP25 6ND,25.3,\N,80,4685228,18550120,6400000,96090: Other service activities n.e.c.
+525,private_limited,IP14 1BE,25.3,\N,\N,168991,\N,\N,"88990: Other social work activities without accommodation n.e.c., 88100: Social work activities without accommodation for the elderly and disabled"
+108,sole_trader,SS4 1TF,25.3,120000,\N,\N,\N,\N,"55100: Hotels and similar accommodation, 46439: Wholesale of radio and television goods and of electrical household appliances"
+117,private_limited,NR31 0NW,25.3,\N,\N,\N,\N,\N,49410: Freight transport by road
+1140,private_limited,NR1 1BY,25.3,120000,\N,\N,\N,\N,86220: Specialist medical practice activities
+4087,private_limited,IP22 4QQ,25.3,\N,12,11487,\N,960000,56101: Licensed restaurants
+1041,private_limited,BR6 8RL,25.3,300000,\N,18269,\N,\N,56101: Licensed restaurants
+198828,private_limited,NR3 1RT,25.3,2040000,\N,\N,\N,\N,"47990: Other retail sale not in stores, stalls or markets"
+3983,private_limited,NR18 0WZ,25.3,60000,\N,\N,\N,\N,9305: Other service activities n.e.c.
+60903,sole_trader,NR16 2AF,25.3,60000,\N,\N,\N,\N,47510: Retail sale of textiles in specialised stores
+4009,private_limited,NR5 8BF,25.3,180000,\N,\N,\N,\N,"82990: Other business support service activities not elsewhere classified, 65202: Non-life reinsurance, 65120: Non-life insurance, 65110: Life insurance"
+1140,private_limited,NR1 1BY,25.3,120000,2,10900,\N,160000,86220: Specialist medical practice activities
+10774,private_limited,NR31 7RA,24.72,240000,\N,\N,\N,\N,"81299: Cleaning services (other than disinfecting and extermination services), 81210: General cleaning of buildings"
+4930,private_limited,NR14 8FU,19.8,1091520000,2,6439,\N,160000,"64200: Activities of holding companies, 68100: Buying and selling of own real estate"
+60924,sole_trader,NR17 2NS,19.78,\N,\N,\N,\N,\N,\N
+1522,private_limited,IP6 8NZ,19.78,900000,15,816383,\N,1200000,25990: Manufacture of other fabricated metal products
+773,private_limited,YO17 6YA,18.75,\N,\N,\N,\N,\N,10850: Manufacture of prepared meals and dishes
+2641,private_limited,NR9 4DD,17.81,2700000,2,1951166,\N,160000,70100: Activities of head offices
+31057,private_limited,NR4 6RE,17.62,300000,3,86378,\N,240000,71112: Urban planning and landscape architectural activities
+22,private_limited,PL12 6RQ,13.64,240000,1,15306,\N,80000,74902: Quantity surveying activities
+61862,private_limited,NR4 7BD,9,\N,6,129823,\N,480000,42990: Construction of other civil engineering projects not elsewhere classified
+339,sole_trader,NR13 5FB,7.42,180000,\N,\N,\N,\N,"85590: Other education n.e.c., 46439: Wholesale of radio and television goods and of electrical household appliances"
+648,sole_trader,NR18 0WZ,5,60000,\N,\N,\N,\N,85510: Sports and recreation education
+200053,private_limited,N6 6DP,3.62,900000,\N,\N,\N,\N,41100: Development of building projects
+200053,private_limited,N6 6DP,3.62,900000,\N,800673,\N,\N,41100: Development of building projects
+40775,private_limited,IP22 4GG,3.26,1080000,25,33936,\N,2000000,"69202: Bookkeeping activities, 69203: Tax consultancy, 82110: Combined office administrative service activities, 69201: Accounting and auditing activities"

@@ -1,37 +1,30 @@
-#values = [10000,100000,500000,750000,1250000,2500000,10000000]
+from customer import *
+from GUI_ import *
+
 rating=[1,2,3,4,5,6,7,8,9,10]
-#x = 250000
-#counter = 0
-#while str(values) <= str(x):
-#        print(values)
-#        rating = str(rating[counter])
-#        x = x + 250000
-#        counter = counter +1
-#print(x)8
+
 
 def ratingSystem(value):
     values_ = {}
+    #values_.append(str(value))
     for i in range(1, 11):
         if i < 10:
             values_[i] = i*250000
         else:
             values_['x'] = i*250000
 
+    #print(values_)
+    keys = list(values_)
     for i, val in enumerate(values_):
-        if value == val[1]:
-            return val[0]
+        #print(keys[i])
+        if values_[keys[i]] == values_:
+            return values(keys[i])
         
-        elif (value > val[0]) and (value < values_[i+1]):
-            return val[0]
+        elif (value > values_[keys[i-1]] )and (value < values_[i+1]):
+            return keys[i+1]
         
         else:
             if value >= values_['x']:
                 return 10
-            else:
-                return values_[i+1]
-
-
-
-
-ratingSystem(350000)
-    
+            
+print(ratingSystem(260000))
