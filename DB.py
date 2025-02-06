@@ -3,18 +3,18 @@ from mysql.connector import errorcode
 
 class DBAccess:
    
-    __username = "root"
-    __password = "kalib"
-    __host = " 10.105.12.226"
-    __database = "nea"
+    username = "root"
+    password = "kalib"
+    host = " 10.105.12.226"
+    database = "nea"
     connection = ""
     cursor = ""
    
     def __init__(self):
         try:
-            self.connection = mysql.connector.connect(user=self.__username,password=self.__password,
-            host=self.__host,
-            database=self.__database)
+            self.connection = mysql.connector.connect(user=self.username,password=self.password,
+            host=self.host,
+            database=self.database)
             self.cursor = self.connection.cursor(prepared=True)                    
            
         except mysql.connector.Error as err:

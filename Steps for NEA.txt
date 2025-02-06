@@ -1,0 +1,9 @@
+Steps for NEA:
+#1. Make sure all functions work for loop 
+#2. Figure out how to turn postcode to long/lat coords
+3. Make companies house api to check SIC codes
+#4. Make all functions definitions inside a class
+5. Call in main method
+6. Accessor and mutator methods
+7. Move onto database
+8. DOCUMENTATION!
