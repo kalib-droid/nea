@@ -3,8 +3,7 @@ import random
 import GUI_
 import sys
 import os
-from GUI_ import *
-from main import * 
+
 
 from arial_distance.arial_distance import get_distance
 

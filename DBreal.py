@@ -39,5 +39,3 @@ class DBAccess():
         return data  
    
 
-dba = DBAccess()  
-
