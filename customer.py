@@ -65,13 +65,7 @@ class customer:
         return keywords
         keywords = openFileInto2DList("myText")
         print2DListWithoutTheCrap(keywords)
-    def test_distance(self,x,y):
-        # Write your test case here
-        source = 52.575985, 1.136588 #netmatters wymondham coordinates
-        destination = x, y
-        print(get_distance(source, destination))
-        #new = TestArialDistance() - code for when the class was TestArialDistance()
-       # new.test_distance()
+    
         
     
    

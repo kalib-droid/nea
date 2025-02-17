@@ -13,6 +13,10 @@ import os
 from arial_distance.arial_distance import get_distance
 import customer
 from customer import *
+from DBreal import DBAccess
+from DBreal import *
+import pandas as pd
+dbHandler = DBAccess()
 #from PIL import Image - download PyPi somehow
 
 
@@ -94,17 +98,82 @@ class main(customtkinter.CTk):
         
     def UploadAction(self,event=None):
         filename = filedialog.askopenfilename()
-        print('Selected:', filename)    
+        print('Selected:', filename)
+        self.openFile(filename)
+    def openFile(self, event): 
+        filename = filedialog.askopenfilename()
+        print('Selected:', filename)
+        #df = pd.read_csv(event )
+        myFile = open(event, "r",encoding='utf-8')
+        array = []
+        for line in myFile:
+            #line = line.strip("\N")
+            line = line.strip("\n")
+            array.append(line)
+            print(array)            
+            
+            print(line)
+        self.saveInDB(array)
+        '''
+        while True: 
+            try: 
+                #with open(fileToOpen, "r") as openFile:
+                z = open(fileToOpen, "r")
+                #openFile.readlines()
+                     
+                array = [] 
+                print(z)
+                
+                for line in z: 
+                    line = line.strip("\n") 
+                    #lineSplit = line.split(" ") 
+                    array.append(line)
+                    print(array) 
+                z.close() 
+                self.saveInDB(array)
+                
+            
+            except IOError as e: 
+                #print("Could not find file :" + fileToOpen + " . Perhaps you forgot your file extension") 
+                pass  
+                
+        '''
+        print()
+    #def testOpenFile
+    def saveInDB(self,dataToSave): 
+        for i, row in enumerate(dataToSave):
+            if i == 0:
+                pass
+            
+            else:
+                valList = []
+                x = True
+                while x:
+                    for val in row:
+                        valList = []
+                        valList.append(val)
+                        if len(valList) == 9:
+                            x = True
+                            break
+                        else:
+                            x = False
+                    print(valList)
+                dbHandler = DBAccess()
+                dbHandler.DBcursor.execute('INSERT INTO data (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,turnover,estimated_turnover,sic_code)VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', valList)
     def button_event(self):
         self.entry.get()
         self.emailSend()
+
     def getButton(self):
         print(self.entry.get())
-    def commandForButton(self,):
+
+    def commandForButton(self):
         self.email.send()
+
     def report(self): 
         report1 = "Target Market Group Report: \n Netmatters, the company group you should be targeting the most is ___, as they have a score of 12, and will be best suited for your business-The next company groups you should target are, ___, ___, ___\nas they have scores 11,10 and 9 respectively.\n-The companies with moderately good profitability are, ___, ___, ___\nas they have scores 8,7 and 6 respectively.\n-The final company group to target are __, they have a score of 5.\n-Company groups to avoid are those below a score of 5, such as ___,___,___ and ___.\n"
         return(report1)
+    
     def emailSend(self):
         x = str(self.entry.get())
         mainMessage = MIMEMultipart()
@@ -134,7 +203,7 @@ class main(customtkinter.CTk):
     
 if __name__ == "__main__":
     window = main()
-    
+
     window.button_event
     
     window.mainloop()

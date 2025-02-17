@@ -1,4 +1,4 @@
-class SalesCalc():
+class Sales():
 
 
     
@@ -7,7 +7,11 @@ class SalesCalc():
     #rating=[1,2,3,4,5,6,7,8,9,10]
   def init(self, externRating):
     externRating = self.rating
-
+  #accessor and mutator methods!
+  def getRating(self):
+      return self.rating
+  def setRating(self, rating):
+      self, rating = self.rating
 
   def SalesCalc(self,value):
         #setting values as an empty list
