@@ -14,9 +14,7 @@ from arial_distance.arial_distance import get_distance
 import customer
 from customer import *
 from DBreal import DBAccess
-from DBreal import *
 import pandas as pd
-dbHandler = DBAccess()
 #from PIL import Image - download PyPi somehow
 
 
@@ -28,6 +26,7 @@ customtkinter.set_default_color_theme("blue")
 
 class main(customtkinter.CTk):
     def __init__(self):
+        self.dbHandler = DBAccess()
         super().__init__()
         self.geometry("2000x500")
         self.title("Business Profitability Calculator")
@@ -109,11 +108,10 @@ class main(customtkinter.CTk):
         for line in myFile:
             #line = line.strip("\N")
             line = line.strip("\n")
+            line = line.strip(",,")
             array.append(line)
-            print(array)            
-            
-            print(line)
-        self.saveInDB(array)
+                    
+            self.saveInDB(array)
         '''
         while True: 
             try: 
@@ -140,26 +138,109 @@ class main(customtkinter.CTk):
         '''
         print()
     #def testOpenFile
+                # if counter != 0:
+            #     counter += 1
+            #     for row in dataToSave:
+            #         valList = []
+                    
+            #         valList.append(row)
+            #         print(valList)
+            #         for val in valList:
+            #             print(val)
     def saveInDB(self,dataToSave): 
         for i, row in enumerate(dataToSave):
-            if i == 0:
-                pass
+            if not(i==0):
+                print(row)
+                row = row.split(",")
+                for item in row:
             
+                    if type(item) != str:
+                        item = str(item)
+
+                self.dbHandler.select('INSERT INTO data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
+                print("hi")
+            
+        #self.analysis(valList)
+    '''def analysis(self,dataToSave):
+        dbHandler = DBAccess()
+        for i, row in enumerate(dataToSave):
+            
+            dbHandler.DBcursor.execute('SELECT customer_ID from data2 where ROW =(%s)',(i,))
+            results = self.cursor.fetchone()
+            dbHandler.DBcursor.execute('INSERT INTO customer(customer_ID)VALUES(results)')
+            
+            dbHandler.DBcursor.execute('SELECT postcode from data2 where ROW =(%s)',(i,))
+            results2 = self.cursor.fetchone()
+            if results2 != "":
+                dbHandler.DBcursor.execute('INSERT INTO customer(postcode)VALUES(%s)',(results2,))
+            #
+            dbHandler.DBcursor.execute('SELECT lat from data2 where ROW = (%s)',(i,))
+            results3 = self.cursor.fetchone()
+            dbHandler.DBcursor.execute('SELECT long_ from data2 where ROW =(%s)',(i,))
+            results4 = self.cursor.fetchone()
+            a = results3
+            b = results4 
+            dbHandler.DBcursor.execute('INSERT INTO customer(distanceRating)VALUES(self.DistanceCalc(%s, %s))',(a,b,))
+            #
+
+            #
+            dbHandler.DBcursor.execute('SELECT total_sales from data2 where ROW =(%s)',(i,))
+            results5 = self.cursor.fetchone()
+            x = self.SalesCalc(results5)
+            dbHandler.DBcursor.execute('INSERT INTO customer(total_salesRating)VALUES(%s),'(x,))
+            #
+            if turnover != "":
+                 #
+                dbHandler.DBcursor.execute('SELECT turnover from data2 where ROW = (%s)',(i,))
+                results8 = self.cursor.fetchone()
+                z = self.TurnoverCalc(results8)
+                dbHandler.DBcursor.execute('INSERT INTO CUSTOMER(turnoverRating) from data2 where ROW= (%s)',(z,))
+                #
+            elif turnover_override != "":
+                #
+                dbHandler.DBcursor.execute('SELECT turnover_override from data2 where ROW= (%s)',(i,))
+                results6 = self.cursor.fetchone()
+                f = self.TurnoverCalc(results6)
+                dbHandler.DBcursor.execute('INSERT INTO CUSTOMER(turnover_overrideRating) from data2 where ROW= (%s)',(c,))
+                #
             else:
-                valList = []
-                x = True
-                while x:
-                    for val in row:
-                        valList = []
-                        valList.append(val)
-                        if len(valList) == 9:
-                            x = True
-                            break
-                        else:
-                            x = False
-                    print(valList)
-                dbHandler = DBAccess()
-                dbHandler.DBcursor.execute('INSERT INTO data (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,turnover,estimated_turnover,sic_code)VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', valList)
+                 #
+                dbHandler.DBcursor.execute('SELECT estimated_turnover from data2 where ROW =(%s)',(i,))
+                results9 = self.cursor.fetchone()
+                c = self.TurnoverCalc(results9)
+                dbHandler.DBcursor.execute('INSERT INTO CUSTOMER(turnoverRating) from data2 where ROW= (%s)',(c,))
+                #
+            #self.TurnoverCalc(results6)
+            dbHandler.DBcursor.execute('SELECT staff_count from data2 where ROW =(%s)',(i,))
+            results7 = self.cursor.fetchone()
+            y = self.StaffCountCalc(results7)
+            dbHandler.DBcursor.execute('INSERT INTO CUSTOMER(staff_countRating) from data2 where ROW= (%s)',(x,))
+            #self.StaffCountCalc(results7)
+
+           
+
+           
+            
+            #
+            dbHandler.DBcursor.execute('SELECT sic_code from data2 where ROW =(%s)',(i,))
+            results10 = self.cursor.fetchone()
+            #self.SICcodes(results10)
+            #possible implementation in v2
+            #
+
+            dbHandler.DBcursor.execute('SELECT profit from data2 where ROW =(%s)',(i,))
+            results11 = self.cursor.fetchone()
+            d = ProfitCalc(results11)
+            dbHandler.DBcursor.execute('INSERT INTO CUSTOMER(profitRating) from data2 where ROW= (%s)',(d,))
+
+        
+    def averageCalc(self,dataToSave):
+        dbHandler = DBAccess()
+        for i, row in enumerate(dataToSave):
+            dbHandler.dbCursor.execute('SELECT * from Customer where ROW =(%s)',(i,))
+
+    
+    '''
     def button_event(self):
         self.entry.get()
         self.emailSend()
@@ -196,6 +277,10 @@ class main(customtkinter.CTk):
                 print("Error!")
         except Exception as e:
             print(f"Error: {e}")
+    def loopForAnalysis(self):
+        for x in xList:
+            x =x
+
    
     #def image1(self,imageWithFileExtension):
         #my_image = customtkinter.CTkImage(my_image=image.open(imageWithFileExtension))

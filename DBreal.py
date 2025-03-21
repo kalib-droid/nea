@@ -1,11 +1,11 @@
 import mysql.connector
 from mysql.connector import errorcode
-
+#"192.168.3.55"#"10.105.13.228"# "127.0.0.1"#"10.105.14.45"
 class DBAccess:
     username = "root"
     password = "kalib"
-    host ="192.168.3.55"#"10.105.13.228"# "127.0.0.1"#"10.105.14.45"
-    database = "nea"
+    host ="127.0.0.1"
+    database = "nea2"
     connection = ""
     cursor = ""
    
@@ -15,7 +15,8 @@ class DBAccess:
             self.connection = mysql.connector.connect(user=self.username,password=self.password,  
             host=self.host,  
             database=self.database)  
-            self.DBcursor = self.connection.cursor(prepared=True)                        
+            self.DBcursor = self.connection.cursor(prepared=True)  
+                                
         except mysql.connector.Error as err:  
             if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:  
                 print("Something is wrong with your user name or password")  
@@ -35,15 +36,9 @@ class DBAccess:
     def select(self, sqlStatement, valuesList=[]):  
         mycursor =self.connection.cursor()  
         mycursor.execute(sqlStatement, valuesList)  
-        data = mycursor.fetchall()  
-        return data  
+        data = mycursor.fetchall()
+        self.connection.commit() 
+
    
-    def funcChoice(self,data):
-        #funcs = [list functions you helmet]
-        for row in data:
-            for i, val in enumerate(row):
-                if i == 4:
-                    self.StaffCountCalc(val)
-                    #funcs[i]
-                else:
-                    pass
+
+    

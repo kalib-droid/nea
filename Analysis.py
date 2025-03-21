@@ -113,7 +113,7 @@ class analysis():
             elif i == 4:
                 self.SalesCalc(total_sales)
             elif i == 5 and turnover_override != None
-                self.
+                self.TurnoverCalc(parameter)
                 
 
 
