@@ -15,6 +15,7 @@ import customer
 from customer import *
 from DBreal import DBAccess
 import pandas as pd
+import csv
 #from PIL import Image - download PyPi somehow
 
 
@@ -95,23 +96,19 @@ class main(customtkinter.CTk):
         self.frame10=customtkinter.CTkFrame(self, corner_radius = 10,fg_color = "transparent",bg_color = "transparent")
         self.frame10.place(relx =0.5,rely=0.5,anchor=customtkinter.S)
         
-    def UploadAction(self,event=None):
+    def UploadAction(self,event=open):
         filename = filedialog.askopenfilename()
         print('Selected:', filename)
         self.openFile(filename)
+    
     def openFile(self, event): 
-        filename = filedialog.askopenfilename()
-        print('Selected:', filename)
-        #df = pd.read_csv(event )
-        myFile = open(event, "r",encoding='utf-8')
+        myFile = open(event, "r")
         array = []
         for line in myFile:
-            #line = line.strip("\N")
-            line = line.strip("\n")
-            line = line.strip(",,")
-            array.append(line)
-                    
-            self.saveInDB(array)
+            line = line.strip(",")
+            line = line.strip("")
+            array.append(line) 
+        self.saveInDB(array)
         '''
         while True: 
             try: 
@@ -146,22 +143,50 @@ class main(customtkinter.CTk):
             #         valList.append(row)
             #         print(valList)
             #         for val in valList:
-            #             print(val)
-    def saveInDB(self,dataToSave): 
+    '''        #             print(val)
+    def saveInDB(self,dataToSave):
+        for i in range(dataToSave):
+            if i == 0:
+                i=i+1
+            elif i != 0:
+                    self.dbHandler.insert('INSERT into data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
+            else:
+                self.dbHandler.insert('INSERT into data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
+'''
+            
+    def saveInDB(self,dataToSave):
+        for i in dataToSave:
+            reader = csv.reader(dataToSave, delimiter=",")
+            for column in reader:
+                    if column == 10:
+                        column = column + str("\n")
+                    else:
+                        self.dbHandler.insert('INSERT into data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', column)
+
+    '''def saveInDB(self,dataToSave): 
         for i, row in enumerate(dataToSave):
-            if not(i==0):
+            if i != 0:
                 print(row)
                 row = row.split(",")
-                for item in row:
-            
-                    if type(item) != str:
-                        item = str(item)
+                #for item in row:
+                for i, column in enumerate(dataToSave):
+                    if column == 10:
+                        column = column + str("\n")
+                    #if type(item) != str:
+                        #item == str(item)
+                else:
+                    self.dbHandler.insert('INSERT into data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
+                    print("hi")
+'''
 
-                self.dbHandler.select('INSERT INTO data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
-                print("hi")
-            
-        #self.analysis(valList)
-    '''def analysis(self,dataToSave):
+    '''def saveInDB(self,dataToSave):
+        for i in row(dataToSave):
+            if i != 0:
+                print(row)
+                row = row.split(",")   
+                self.dbHandler.insert('INSERT into data2 (customer_ID,postcode,lat,long_,total_sales,turnover_override,staff_count,profit,turnover,estimated_turnover,sic_code) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)', row)
+     #self.analysis(valList)
+    def analysis(self,dataToSave):
         dbHandler = DBAccess()
         for i, row in enumerate(dataToSave):
             
@@ -237,10 +262,12 @@ class main(customtkinter.CTk):
     def averageCalc(self,dataToSave):
         dbHandler = DBAccess()
         for i, row in enumerate(dataToSave):
-            dbHandler.dbCursor.execute('SELECT * from Customer where ROW =(%s)',(i,))
-
+            dbHandler.dbCursor.execute('SELECT * from Customer where ROW =(%s)',(i,))'''
+                                                                                        
     
-    '''
+    
+
+
     def button_event(self):
         self.entry.get()
         self.emailSend()

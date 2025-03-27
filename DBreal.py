@@ -4,7 +4,7 @@ from mysql.connector import errorcode
 class DBAccess:
     username = "root"
     password = "kalib"
-    host ="127.0.0.1"
+    host ="192.168.1.213"
     database = "nea2"
     connection = ""
     cursor = ""
@@ -38,7 +38,7 @@ class DBAccess:
         mycursor.execute(sqlStatement, valuesList)  
         data = mycursor.fetchall()
         self.connection.commit() 
-
+    
    
 
     
